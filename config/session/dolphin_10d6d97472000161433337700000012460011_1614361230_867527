@@ -1,0 +1,19 @@
+[1]
+Active Tab Index=1
+Tab Count=2
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00\x1afile:///home/n30/Downloads\x00\x00\x00\x00\x01\x00\x00\x00Mfile:///home/n30/Downloads/Path-Planning-using-Markov-Decision-Process-master\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 1=\x00\x00\x00\x02\x00\x00\x00\x00\x1efile:///run/media/n30/Skeleton\x00\x00\x00\x00\x01\x00\x00\x00%file:///run/media/n30/Skeleton/Images\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=DolphinMainWindow
+MenuBar=Disabled
+ObjectName=Dolphin#1
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAAD7vwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAYBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAyAAAD7gAAAFgBAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAABgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAYBAAADAAAGwQAAA+4AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP-1 HDMI-1-0 Window-Maximized 1920x1080=true
+eDP-1 HDMI-1-0 XPosition=1920
+eDP-1 HDMI-1-0 YPosition=24

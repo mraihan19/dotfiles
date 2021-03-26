@@ -1,0 +1,40 @@
+[Desktop Entry]
+FullScreen=false
+
+[KFileDialog Settings]
+detailViewIconSize=16
+
+[MainWindow]
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPYAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 HDMI-1-0 Height 1920x1080=1054
+eDP-1 HDMI-1-0 Width 1920x1080=1920
+eDP-1 HDMI-1-0 Window-Maximized 1920x1080=true
+eDP-1 HDMI-1-0 XPosition=0
+eDP-1 HDMI-1-0 XPosition 1920x1080=0
+eDP-1 HDMI-1-0 YPosition=52
+eDP-1 HDMI-1-0 YPosition 1920x1080=52
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/ACFrOgB-_fHEDnR-4ENEFK1UOKSi5rAwQ6RyYR7dWBDLc3EFHH0RHe2rvgrRX8Q0EL4XQTi7d5SWHotOuf6VQ48Atrdw2sw8FLvV5wSeI0Wg_5IfadHFIoy8pTnyjmY=.pdf
+File10[$e]=$HOME/Downloads/Video/A Modest Proposal.pdf
+File2[$e]=$HOME/Downloads/3379156.3391363.pdf
+File3[$e]=$HOME/Downloads/Expert Consortium/EEAgreement-Raihanul_Bashar.pdf
+File4[$e]=$HOME/Downloads/Expert Consortium/Expert-OfferLetter-Raihanul_Bashar.pdf
+File5[$e]=$HOME/Downloads/Video/Browning 103.pdf
+File6[$e]=$HOME/Downloads/Video/kEATS.pdf
+File7[$e]=$HOME/Downloads/Video/O Captain.pdf
+File8[$e]=$HOME/Downloads/Video/Tagore's Little Flute.pdf
+File9[$e]=$HOME/Downloads/Video/Tennyson 103.pdf
+Name1[$e]=ACFrOgB-_fHEDnR-4ENEFK1UOKSi5rAwQ6RyYR7dWBDLc3EFHH0RHe2rvgrRX8Q0EL4XQTi7d5SWHotOuf6VQ48Atrdw2sw8FLvV5wSeI0Wg_5IfadHFIoy8pTnyjmY=.pdf
+Name10[$e]=A Modest Proposal.pdf
+Name2[$e]=3379156.3391363.pdf
+Name3[$e]=EEAgreement-Raihanul_Bashar.pdf
+Name4[$e]=Expert-OfferLetter-Raihanul_Bashar.pdf
+Name5[$e]=Browning 103.pdf
+Name6[$e]=kEATS.pdf
+Name7[$e]=O Captain.pdf
+Name8[$e]=Tagore's Little Flute.pdf
+Name9[$e]=Tennyson 103.pdf

@@ -1,0 +1,148 @@
+User belongs to experiment group 'pythonaa'
+User belongs to experiment group 'pythonSendEntireLineToREPL'
+User belongs to experiment group 'pythonNotDisplayLinterPrompt'
+User belongs to experiment group 'AlwaysDisplayTestExplorer - experiment'
+User belongs to experiment group 'ShowPlayIcon - start'
+User belongs to experiment group 'ShowExtensionSurveyPrompt - enabled'
+User belongs to experiment group 'DebugAdapterFactory - experiment'
+User belongs to experiment group 'PtvsdWheels37 - experiment'
+User belongs to experiment group 'UseTerminalToGetActivatedEnvVars - control'
+User belongs to experiment group 'AA_testing - experiment'
+User belongs to experiment group 'LocalZMQKernel - experiment'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+User belongs to experiment group 'EnableIPyWidgets - experiment'
+User belongs to experiment group 'RunByLine - experiment'
+User belongs to experiment group 'CustomEditorSupport - control'
+> conda --version
+> python3.7 ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3.6 ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python2 ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> conda info --json
+Error 2021-03-01 14:15:02: Detection of Python Interpreter for Command python3.7 and args  failed as file  does not exist
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+Error 2021-03-01 14:15:03: Failed to get interpreter information for '/home/n30/.pyenv/shims/python3.7' [Error: Command failed: "/home/n30/.pyenv/shims/python3.7" "/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py" "/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/interpreterInfo.py"
+pyenv: python3.7: command not found
+
+The `python3.7' command exists in these Python versions:
+  3.7.6
+
+Note: See 'pyenv help global' for tips on allowing both
+      python2 and python3 to be found.
+
+	at ChildProcess.exithandler (child_process.js:312:12)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:443:11)
+	at Socket.emit (events.js:315:20)
+	at Pipe.<anonymous> (net.js:674:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: '"/home/n30/.pyenv/shims/python3.7" "/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py" "/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/interpreterInfo.py"'
+}
+Error 2021-03-01 14:15:03: Failed to get interpreter information for '/home/n30/.pyenv/shims/python3.7' [Error: Command failed: "/home/n30/.pyenv/shims/python3.7" "/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py" "/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/interpreterInfo.py"
+pyenv: python3.7: command not found
+
+The `python3.7' command exists in these Python versions:
+  3.7.6
+
+Note: See 'pyenv help global' for tips on allowing both
+      python2 and python3 to be found.
+
+	at ChildProcess.exithandler (child_process.js:312:12)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:443:11)
+	at Socket.emit (events.js:315:20)
+	at Pipe.<anonymous> (net.js:674:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: '"/home/n30/.pyenv/shims/python3.7" "/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py" "/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/interpreterInfo.py"'
+}
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+Python interpreter path: /usr/bin/python
+Starting Pylance language server.
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> conda --version
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py autopep8 --diff ~/Downloads/demo.py.80385b4c901ce2029c50f9cece345329.tmp
+cwd: ~/.vscode/extensions/ms-python.python-2021.2.582707922/out/client
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py autopep8 --diff ~/Downloads/demo.py.80385b4c901ce2029c50f9cece345329.tmp
+cwd: ~/.vscode/extensions/ms-python.python-2021.2.582707922/out/client
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import autopep8"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import autopep8"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import autopep8"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import pip"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import pip"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import autopep8"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import autopep8"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py autopep8 --diff ~/Downloads/demo.py
+cwd: ~/.vscode/extensions/ms-python.python-2021.2.582707922/out/client
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py autopep8 --diff ~/Downloads/demo.py
+cwd: ~/.vscode/extensions/ms-python.python-2021.2.582707922/out/client
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py autopep8 --diff ~/Downloads/demo.py.80385b4c901ce2029c50f9cece345329.tmp
+cwd: ~/.vscode/extensions/ms-python.python-2021.2.582707922/out/client
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py autopep8 --diff ~/Downloads/demo.py.80385b4c901ce2029c50f9cece345329.tmp
+cwd: ~/.vscode/extensions/ms-python.python-2021.2.582707922/out/client
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py autopep8 --diff ~/Downloads/demo.py
+cwd: ~/.vscode/extensions/ms-python.python-2021.2.582707922/out/client
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py autopep8 --diff ~/Downloads/demo.py
+cwd: ~/.vscode/extensions/ms-python.python-2021.2.582707922/out/client
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py autopep8 --diff ~/Downloads/demo.py
+cwd: ~/.vscode/extensions/ms-python.python-2021.2.582707922/out/client
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py autopep8 --diff ~/Downloads/demo.py
+cwd: ~/.vscode/extensions/ms-python.python-2021.2.582707922/out/client
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py autopep8 --diff ~/Downloads/demo.py.80385b4c901ce2029c50f9cece345329.tmp
+cwd: ~/.vscode/extensions/ms-python.python-2021.2.582707922/out/client
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py autopep8 --diff ~/Downloads/demo.py.80385b4c901ce2029c50f9cece345329.tmp
+cwd: ~/.vscode/extensions/ms-python.python-2021.2.582707922/out/client
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py autopep8 --diff ~/Downloads/demo.py
+cwd: ~/.vscode/extensions/ms-python.python-2021.2.582707922/out/client
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py autopep8 --diff ~/Downloads/demo.py
+cwd: ~/.vscode/extensions/ms-python.python-2021.2.582707922/out/client
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"

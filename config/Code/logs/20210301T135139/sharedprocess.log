@@ -1,0 +1,19 @@
+[2021-03-01 13:51:44.772] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-03-01 13:51:53.670] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter undefined
+[2021-03-01 13:51:54.433] [sharedprocess] [info] Extracted extension to /home/n30/.vscode/extensions/.ms-toolsai.jupyter-2021.2.603412351: ms-toolsai.jupyter
+[2021-03-01 13:51:54.433] [sharedprocess] [info] Renamed to /home/n30/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351
+[2021-03-01 13:51:54.436] [sharedprocess] [info] Installation completed. ms-toolsai.jupyter
+[2021-03-01 13:51:54.450] [sharedprocess] [info] Extensions installed successfully: ms-toolsai.jupyter
+[2021-03-01 13:52:22.623] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-03-01 13:55:01.026] [sharedprocess] [info] Installing extension: davidanson.vscode-markdownlint
+[2021-03-01 13:55:01.771] [sharedprocess] [info] Downloaded extension: davidanson.vscode-markdownlint undefined
+[2021-03-01 13:55:01.808] [sharedprocess] [info] Extracted extension to /home/n30/.vscode/extensions/.davidanson.vscode-markdownlint-0.39.0: davidanson.vscode-markdownlint
+[2021-03-01 13:55:01.808] [sharedprocess] [info] Renamed to /home/n30/.vscode/extensions/davidanson.vscode-markdownlint-0.39.0
+[2021-03-01 13:55:01.809] [sharedprocess] [info] Installation completed. davidanson.vscode-markdownlint
+[2021-03-01 13:55:01.814] [sharedprocess] [info] Extensions installed successfully: davidanson.vscode-markdownlint
+[2021-03-01 13:56:13.807] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2021-03-01 13:56:21.027] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode undefined
+[2021-03-01 13:56:21.526] [sharedprocess] [info] Extracted extension to /home/n30/.vscode/extensions/.visualstudioexptteam.vscodeintellicode-1.2.11: visualstudioexptteam.vscodeintellicode
+[2021-03-01 13:56:21.526] [sharedprocess] [info] Renamed to /home/n30/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.11
+[2021-03-01 13:56:21.527] [sharedprocess] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2021-03-01 13:56:21.533] [sharedprocess] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode

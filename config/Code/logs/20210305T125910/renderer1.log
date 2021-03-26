@@ -1,0 +1,510 @@
+[2021-03-05 22:09:15.120] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/run/media/n30/Jarvis/Work/Soft_dev/python-fast_api-CRUD/.vscode'
+[2021-03-05 22:09:15.120] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/run/media/n30/Jarvis/Work/Soft_dev/python-fast_api-CRUD/.vscode'
+[2021-03-05 22:09:17.369] [renderer1] [error] No authentication provider 'microsoft' is currently registered.: Error: No authentication provider 'microsoft' is currently registered.
+    at s.getSessions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1550:8969)
+    at async hi.getAccounts (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1891:10501)
+    at async hi.update (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1891:10238)
+[2021-03-05 22:11:33.602] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:11:35.774] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:11:37.025] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:11:39.060] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:11:41.425] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:11:47.187] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:14:07.437] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:14:08.460] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:27:42.434] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:27:44.313] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:27:46.148] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:27:47.295] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:27:49.101] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:27:51.347] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:27:52.946] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:27:55.730] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:27:57.345] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:28:01.119] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:28:23.534] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:28:24.629] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:28:28.330] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:28:29.626] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:28:30.720] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:28:32.289] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:28:33.324] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:28:34.612] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:28:36.037] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:28:37.330] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:28:40.615] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:31:27.735] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:31:29.011] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:31:30.976] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:31:33.452] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:31:34.670] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:31:37.599] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:31:40.374] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:31:41.958] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:31:46.802] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:31:49.184] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:32:46.666] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:32:48.273] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:32:49.781] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:32:51.548] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:32:53.135] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:32:55.037] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:32:56.115] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:32:58.299] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:32:59.832] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:33:02.086] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:33:03.451] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:33:04.768] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:33:10.978] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:34:24.621] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:34:29.586] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:34:30.855] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:34:32.588] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:34:33.824] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:34:36.022] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:34:38.250] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:34:39.947] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:34:40.991] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:34:42.486] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-05 22:34:44.875] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141

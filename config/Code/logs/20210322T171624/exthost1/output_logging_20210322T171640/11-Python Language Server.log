@@ -1,0 +1,3 @@
+[Info  - 5:16:42 PM] Pylance language server 2021.3.2 (pyright 85309906) starting
+[Info  - 5:16:42 PM] Server root directory: /home/n30/.dotfiles/.vscode/extensions/ms-python.vscode-pylance-2021.3.2/dist
+[Error - 5:16:42 PM] stubPath /home/n30/Downloads/SL/typings is not a valid directory.

@@ -1,0 +1,119 @@
+[2021-03-01 13:51:40.646] [exthost] [info] extension host started
+[2021-03-01 13:51:40.684] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-03-01 13:51:40.684] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-03-01 13:51:40.698] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-03-01 13:51:40.698] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-03-01 13:51:40.702] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-01 13:51:40.702] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-03-01 13:51:40.721] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"*"}
+[2021-03-01 13:51:40.721] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/extension
+[2021-03-01 13:51:40.748] [exthost] [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview {"startup":true,"extensionId":{"value":"kisstkondoros.vscode-gutter-preview","_lower":"kisstkondoros.vscode-gutter-preview"},"activationEvent":"*"}
+[2021-03-01 13:51:40.748] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/kisstkondoros.vscode-gutter-preview-0.26.2/dist/extension
+[2021-03-01 13:51:40.756] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"extensionId":{"value":"oderwat.indent-rainbow","_lower":"oderwat.indent-rainbow"},"activationEvent":"*"}
+[2021-03-01 13:51:40.756] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/oderwat.indent-rainbow-7.5.0/out/extension
+[2021-03-01 13:51:40.758] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-03-01 13:51:40.758] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/pkief.material-icon-theme-4.5.0/dist/extension
+[2021-03-01 13:51:40.766] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-03-01 13:51:40.766] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-03-01 13:51:41.248] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode {"startup":true,"extensionId":{"value":"WallabyJs.quokka-vscode","_lower":"wallabyjs.quokka-vscode"},"activationEvent":"*"}
+[2021-03-01 13:51:41.248] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/wallabyjs.quokka-vscode-1.0.343/index
+[2021-03-01 13:51:41.523] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-01 13:51:41.523] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-03-01 13:51:41.533] [exthost] [info] eager extensions activated
+[2021-03-01 13:51:41.534] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-03-01 13:51:41.534] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-03-01 13:51:41.689] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-03-01 13:51:41.689] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-03-01 13:51:41.698] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-03-01 13:51:41.698] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-03-01 13:51:41.702] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-03-01 13:51:41.703] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-03-01 13:51:41.707] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-03-01 13:51:41.707] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/esbenp.prettier-vscode-5.9.2/dist/extension
+[2021-03-01 13:51:41.830] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-03-01 13:51:41.830] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-03-01 13:52:07.524] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-03-01 13:52:07.524] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-03-01 13:52:07.528] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-03-01 13:52:07.528] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-03-01 13:52:07.554] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-03-01 13:52:07.554] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-03-01 13:52:14.085] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-03-01 13:52:15.098] [exthost] [info] exiting with code 0
+[2021-03-01 13:52:15.767] [exthost] [info] extension host started
+[2021-03-01 13:52:15.859] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-03-01 13:52:15.859] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-03-01 13:52:15.868] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-03-01 13:52:15.868] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-03-01 13:52:15.870] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-03-01 13:52:15.871] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-03-01 13:52:15.885] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-03-01 13:52:15.885] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-03-01 13:52:15.896] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-03-01 13:52:15.896] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-03-01 13:52:15.898] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-01 13:52:15.898] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-03-01 13:52:15.913] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"*"}
+[2021-03-01 13:52:15.913] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/extension
+[2021-03-01 13:52:15.927] [exthost] [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview {"startup":true,"extensionId":{"value":"kisstkondoros.vscode-gutter-preview","_lower":"kisstkondoros.vscode-gutter-preview"},"activationEvent":"*"}
+[2021-03-01 13:52:15.927] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/kisstkondoros.vscode-gutter-preview-0.26.2/dist/extension
+[2021-03-01 13:52:15.938] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"extensionId":{"value":"oderwat.indent-rainbow","_lower":"oderwat.indent-rainbow"},"activationEvent":"*"}
+[2021-03-01 13:52:15.938] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/oderwat.indent-rainbow-7.5.0/out/extension
+[2021-03-01 13:52:15.939] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-03-01 13:52:15.939] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/pkief.material-icon-theme-4.5.0/dist/extension
+[2021-03-01 13:52:15.951] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-03-01 13:52:15.951] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-03-01 13:52:16.379] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode {"startup":true,"extensionId":{"value":"WallabyJs.quokka-vscode","_lower":"wallabyjs.quokka-vscode"},"activationEvent":"*"}
+[2021-03-01 13:52:16.379] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/wallabyjs.quokka-vscode-1.0.343/index
+[2021-03-01 13:52:16.661] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-01 13:52:16.661] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-03-01 13:52:16.730] [exthost] [info] eager extensions activated
+[2021-03-01 13:52:16.732] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-03-01 13:52:16.732] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-03-01 13:52:16.814] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-03-01 13:52:16.814] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-03-01 13:52:16.819] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-03-01 13:52:16.819] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-03-01 13:52:16.822] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-03-01 13:52:16.822] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-03-01 13:52:16.824] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-03-01 13:52:16.824] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/esbenp.prettier-vscode-5.9.2/dist/extension
+[2021-03-01 13:52:16.976] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-03-01 13:52:16.976] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-03-01 13:55:01.136] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-03-01 13:55:01.136] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-03-01 13:55:01.144] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2021-03-01 13:55:01.144] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/npmMain
+[2021-03-01 13:56:21.638] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"extensionId":{"value":"VisualStudioExptTeam.vscodeintellicode","_lower":"visualstudioexptteam.vscodeintellicode"},"activationEvent":"onLanguage:javascript"}
+[2021-03-01 13:56:21.638] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.11/dist/intellicode
+[2021-03-01 14:15:01.155] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-03-01 14:15:01.156] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension
+[2021-03-01 14:15:01.774] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-03-01 14:15:01.774] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension
+[2021-03-01 14:15:02.163] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-03-01 14:15:02.164] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/ms-python.vscode-pylance-2021.2.4/dist/extension.bundle.js
+[2021-03-01 14:15:05.266] [exthost] [error] [ms-python.python] provider FAILED
+[2021-03-01 14:15:05.266] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-01 14:15:05.761] [exthost] [error] [ms-python.python] provider FAILED
+[2021-03-01 14:15:05.761] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141
+[2021-03-01 14:16:55.973] [exthost] [error] [ms-python.python] provider FAILED
+[2021-03-01 14:16:55.973] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:175214)
+	at E.handleFailedRequest (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:175065)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140219
+[2021-03-01 14:22:16.758] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-03-01 14:22:17.795] [exthost] [info] exiting with code 0

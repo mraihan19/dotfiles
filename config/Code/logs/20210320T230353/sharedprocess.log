@@ -1,0 +1,46 @@
+[2021-03-20 23:03:59.568] [sharedprocess] [info] Deleted from disk gruntfuggly.todo-tree /home/n30/.vscode/extensions/gruntfuggly.todo-tree-0.0.201
+[2021-03-20 23:04:00.597] [sharedprocess] [info] Deleted from disk wallabyjs.quokka-vscode /home/n30/.vscode/extensions/wallabyjs.quokka-vscode-1.0.345
+[2021-03-20 23:04:00.628] [sharedprocess] [info] Deleted from disk ms-python.python /home/n30/.vscode/extensions/ms-python.python-2021.2.625869727
+[2021-03-20 23:04:04.337] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2021-03-20 23:04:04.345] [sharedprocess] [info] Installing extension: gruntfuggly.todo-tree
+[2021-03-20 23:04:04.348] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-03-20 23:04:04.355] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2021-03-20 23:04:04.356] [sharedprocess] [info] Installing extension: pkief.material-product-icons
+[2021-03-20 23:04:04.363] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2021-03-20 23:04:04.365] [sharedprocess] [info] Installing extension: wallabyjs.quokka-vscode
+[2021-03-20 23:04:05.998] [sharedprocess] [info] Downloaded extension: pkief.material-product-icons undefined
+[2021-03-20 23:04:06.123] [sharedprocess] [info] Extracted extension to /home/n30/.vscode/extensions/.pkief.material-product-icons-1.0.4: pkief.material-product-icons
+[2021-03-20 23:04:06.123] [sharedprocess] [info] Renamed to /home/n30/.vscode/extensions/pkief.material-product-icons-1.0.4
+[2021-03-20 23:04:06.125] [sharedprocess] [info] Installation completed. pkief.material-product-icons
+[2021-03-20 23:04:06.133] [sharedprocess] [info] Extensions installed successfully: pkief.material-product-icons
+[2021-03-20 23:04:06.674] [sharedprocess] [info] Downloaded extension: gruntfuggly.todo-tree undefined
+[2021-03-20 23:04:07.061] [sharedprocess] [info] Extracted extension to /home/n30/.vscode/extensions/.gruntfuggly.todo-tree-0.0.207: gruntfuggly.todo-tree
+[2021-03-20 23:04:07.062] [sharedprocess] [info] Renamed to /home/n30/.vscode/extensions/gruntfuggly.todo-tree-0.0.207
+[2021-03-20 23:04:07.067] [sharedprocess] [info] Installation completed. gruntfuggly.todo-tree
+[2021-03-20 23:04:07.100] [sharedprocess] [info] Extensions installed successfully: gruntfuggly.todo-tree
+[2021-03-20 23:04:13.749] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme undefined
+[2021-03-20 23:04:18.603] [sharedprocess] [info] Extracted extension to /home/n30/.vscode/extensions/.pkief.material-icon-theme-4.6.0: pkief.material-icon-theme
+[2021-03-20 23:04:18.603] [sharedprocess] [info] Renamed to /home/n30/.vscode/extensions/pkief.material-icon-theme-4.6.0
+[2021-03-20 23:04:18.607] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2021-03-20 23:04:18.638] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme
+[2021-03-20 23:04:21.775] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode undefined
+[2021-03-20 23:04:22.676] [sharedprocess] [info] Extracted extension to /home/n30/.vscode/extensions/.esbenp.prettier-vscode-6.3.1: esbenp.prettier-vscode
+[2021-03-20 23:04:22.676] [sharedprocess] [info] Renamed to /home/n30/.vscode/extensions/esbenp.prettier-vscode-6.3.1
+[2021-03-20 23:04:22.679] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2021-03-20 23:04:22.690] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2021-03-20 23:04:37.692] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-03-20 23:04:46.124] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance undefined
+[2021-03-20 23:04:50.191] [sharedprocess] [info] Downloaded extension: wallabyjs.quokka-vscode undefined
+[2021-03-20 23:04:55.942] [sharedprocess] [info] Extracted extension to /home/n30/.vscode/extensions/.ms-python.vscode-pylance-2021.3.2: ms-python.vscode-pylance
+[2021-03-20 23:04:55.942] [sharedprocess] [info] Renamed to /home/n30/.vscode/extensions/ms-python.vscode-pylance-2021.3.2
+[2021-03-20 23:04:55.947] [sharedprocess] [info] Installation completed. ms-python.vscode-pylance
+[2021-03-20 23:04:56.105] [sharedprocess] [info] Extensions installed successfully: ms-python.vscode-pylance
+[2021-03-20 23:04:56.662] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode undefined
+[2021-03-20 23:04:57.972] [sharedprocess] [info] Extracted extension to /home/n30/.vscode/extensions/.visualstudioexptteam.vscodeintellicode-1.2.12: visualstudioexptteam.vscodeintellicode
+[2021-03-20 23:04:57.973] [sharedprocess] [info] Renamed to /home/n30/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.12
+[2021-03-20 23:04:57.976] [sharedprocess] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2021-03-20 23:04:57.990] [sharedprocess] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode
+[2021-03-20 23:05:00.401] [sharedprocess] [info] Extracted extension to /home/n30/.vscode/extensions/.wallabyjs.quokka-vscode-1.0.351: wallabyjs.quokka-vscode
+[2021-03-20 23:05:00.414] [sharedprocess] [info] Renamed to /home/n30/.vscode/extensions/wallabyjs.quokka-vscode-1.0.351
+[2021-03-20 23:05:00.417] [sharedprocess] [info] Installation completed. wallabyjs.quokka-vscode
+[2021-03-20 23:05:00.448] [sharedprocess] [info] Extensions installed successfully: wallabyjs.quokka-vscode

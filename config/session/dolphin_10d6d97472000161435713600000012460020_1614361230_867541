@@ -1,0 +1,20 @@
+[1]
+Active Tab Index=2
+Tab Count=3
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00[file:///run/media/n30/Skeleton/Non%20Academic/Series/Batwoman.S02E05.HDTV.x264-PHOENiX[TGx]\x00\x00\x00\x00\x01\x00\x00\x00\x81file:///run/media/n30/Skeleton/Non%20Academic/Series/Batwoman.S02E05.HDTV.x264-PHOENiX[TGx]/Batwoman.S02E05.HDTV.x264-PHOENiX.mkv\x00\x00\x00\x01\x00\x00\x00\x81file:///run/media/n30/Skeleton/Non%20Academic/Series/Batwoman.S02E05.HDTV.x264-PHOENiX[TGx]/Batwoman.S02E05.HDTV.x264-PHOENiX.mkv\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 1=\x00\x00\x00\x02\x00\x00\x00\x00\x10file:///home/n30\x00\x00\x00\x00\x01\x00\x00\x00\x1afile:///home/n30/Downloads\x00\x00\x00\x01\x00\x00\x00\x1afile:///home/n30/Downloads\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 2=\x00\x00\x00\x02\x00\x00\x00\x00\x1afile:///home/n30/Downloads\x00\x00\x00\x00\x01\x00\x00\x002file:///home/n30/Downloads/mcOS-BS-Extra-Icons.zip\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=DolphinMainWindow
+MenuBar=Disabled
+ObjectName=Dolphin#1
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAAD0vwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAYBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAAD0gAAAFgBAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAABgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAYBAAADAAAGwQAAA9IAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP-1 HDMI-1-0 Window-Maximized 1920x1080=true
+eDP-1 HDMI-1-0 XPosition=0
+eDP-1 HDMI-1-0 YPosition=56

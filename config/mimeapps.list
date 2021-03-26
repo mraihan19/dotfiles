@@ -1,0 +1,21 @@
+[Added Associations]
+inode/directory=org.kde.dolphin.desktop;
+text/html=chromium.desktop;firefox.desktop;google-chrome.desktop;brave-browser.desktop;org.kde.kate.desktop;okularApplication_txt.desktop;vim.desktop;visual-studio-code.desktop;
+video/mp4=smplayer.desktop;
+video/x-matroska=smplayer.desktop;
+video/x-msvideo=smplayer.desktop;
+x-scheme-handler/http=google-chrome.desktop;chromium.desktop;
+x-scheme-handler/https=google-chrome.desktop;chromium.desktop;
+x-scheme-handler/mailto=thunderbird.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-VIC6Z0.desktop;
+
+[Default Applications]
+inode/directory=org.kde.dolphin.desktop;
+text/html=google-chrome.desktop
+video/mp4=smplayer.desktop;
+video/x-matroska=smplayer.desktop;
+video/x-msvideo=smplayer.desktop;
+x-scheme-handler/http=google-chrome.desktop;
+x-scheme-handler/https=google-chrome.desktop;
+x-scheme-handler/mailto=thunderbird.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-VIC6Z0.desktop

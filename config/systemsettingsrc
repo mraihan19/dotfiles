@@ -1,0 +1,18 @@
+[KFileDialog Settings]
+detailViewIconSize=16
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 HDMI-1-0 Height 1080=700
+eDP-1 HDMI-1-0 Height 1920x1080=700
+eDP-1 HDMI-1-0 Width 1920=1024
+eDP-1 HDMI-1-0 Width 1920x1080=1020
+eDP-1 HDMI-1-0 XPosition=2418
+eDP-1 HDMI-1-0 XPosition 1920x1080=2143
+eDP-1 HDMI-1-0 YPosition=301
+eDP-1 HDMI-1-0 YPosition 1920x1080=302
+
+[systemsettings_sidebar_mode]
+HighlightNonDefaultSettings=true

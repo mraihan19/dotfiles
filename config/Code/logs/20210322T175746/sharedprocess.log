@@ -1,0 +1,20 @@
+[2021-03-22 17:57:49.128] [sharedprocess] [info] Deleted from disk gruntfuggly.todo-tree /home/n30/.vscode/extensions/gruntfuggly.todo-tree-0.0.207
+[2021-03-22 17:57:51.788] [sharedprocess] [info] Installing extension: kisstkondoros.vscode-gutter-preview
+[2021-03-22 17:57:51.790] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-03-22 17:57:51.791] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-03-22 17:57:54.085] [sharedprocess] [info] Downloaded extension: kisstkondoros.vscode-gutter-preview undefined
+[2021-03-22 17:57:54.159] [sharedprocess] [info] Extracted extension to /home/n30/.vscode/extensions/.kisstkondoros.vscode-gutter-preview-0.27.1: kisstkondoros.vscode-gutter-preview
+[2021-03-22 17:57:54.160] [sharedprocess] [info] Renamed to /home/n30/.vscode/extensions/kisstkondoros.vscode-gutter-preview-0.27.1
+[2021-03-22 17:57:54.163] [sharedprocess] [info] Installation completed. kisstkondoros.vscode-gutter-preview
+[2021-03-22 17:57:54.174] [sharedprocess] [info] Extensions installed successfully: kisstkondoros.vscode-gutter-preview
+[2021-03-22 17:58:08.446] [sharedprocess] [info] Downloaded extension: ms-python.python undefined
+[2021-03-22 17:58:10.336] [sharedprocess] [info] Extracted extension to /home/n30/.vscode/extensions/.ms-python.python-2021.3.658691958: ms-python.python
+[2021-03-22 17:58:10.337] [sharedprocess] [info] Renamed to /home/n30/.vscode/extensions/ms-python.python-2021.3.658691958
+[2021-03-22 17:58:10.340] [sharedprocess] [info] Installation completed. ms-python.python
+[2021-03-22 17:58:10.406] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2021-03-22 17:58:13.266] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter undefined
+[2021-03-22 17:58:13.850] [sharedprocess] [info] Extracted extension to /home/n30/.vscode/extensions/.ms-toolsai.jupyter-2021.3.619093157: ms-toolsai.jupyter
+[2021-03-22 17:58:13.850] [sharedprocess] [info] Renamed to /home/n30/.vscode/extensions/ms-toolsai.jupyter-2021.3.619093157
+[2021-03-22 17:58:13.853] [sharedprocess] [info] Installation completed. ms-toolsai.jupyter
+[2021-03-22 17:58:13.864] [sharedprocess] [info] Extensions installed successfully: ms-toolsai.jupyter
+[2021-03-22 17:58:28.842] [sharedprocess] [info] Starting to clean up unused language packs.

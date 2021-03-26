@@ -1,0 +1,12 @@
+[2021-03-07 12:03:36.571] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/run/media/n30/Jarvis/Work/Soft_dev/python-fast_api-CRUD/.vscode'
+[2021-03-07 12:03:36.571] [renderer1] [warning] Ignoring the error while validating workspace folder file:///run/media/n30/Jarvis/Work/Soft_dev/python-fast_api-CRUD - Unable to resolve non-existing file '/run/media/n30/Jarvis/Work/Soft_dev/python-fast_api-CRUD'
+[2021-03-07 12:03:36.571] [renderer1] [error] Error: Unable to read file '/run/media/n30/Jarvis/Work/Soft_dev/python-fast_api-CRUD/app.py' (Error: Unable to resolve non-existing file '/run/media/n30/Jarvis/Work/Soft_dev/python-fast_api-CRUD/app.py')
+    at Object._ [as createErrorWithActions] (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:6:5956)
+    at n.handleSetInputError (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1891:79018)
+    at n.handleSetInputError (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1891:81679)
+    at n.setInput (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1891:78735)
+    at async u.doSetInput (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:10520)
+    at async u.openEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1584:9082)
+    at async file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:15707
+    at async Ti.restoreEditors (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2265:8823)
+[2021-03-07 12:03:39.483] [renderer1] [error] ENOENT: no such file or directory, scandir '/run/media/n30/Jarvis/Work/Soft_dev/python-fast_api-CRUD': Error: ENOENT: no such file or directory, scandir '/run/media/n30/Jarvis/Work/Soft_dev/python-fast_api-CRUD'

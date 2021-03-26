@@ -1,0 +1,4 @@
+[2021-03-20 23:03:57.972] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/run/media/n30/Jarvis/Work/Soft_dev/python-fast_api-CRUD/.vscode'
+[2021-03-20 23:03:57.972] [renderer1] [warning] Ignoring the error while validating workspace folder file:///run/media/n30/Jarvis/Work/Soft_dev/python-fast_api-CRUD - Unable to resolve non-existing file '/run/media/n30/Jarvis/Work/Soft_dev/python-fast_api-CRUD'
+[2021-03-20 23:04:05.280] [renderer1] [error] ENOENT: no such file or directory, scandir '/run/media/n30/Jarvis/Work/Soft_dev/python-fast_api-CRUD': Error: ENOENT: no such file or directory, scandir '/run/media/n30/Jarvis/Work/Soft_dev/python-fast_api-CRUD'
+[2021-03-20 23:06:02.368] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/n30/Downloads/SL/.vscode'

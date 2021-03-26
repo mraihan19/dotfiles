@@ -1,0 +1,8 @@
+[2021-03-01 14:15:05.267] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33262)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:33211)
+	at new a (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:80:19977)
+	at H (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:149975)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:155129)
+	at /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:140141

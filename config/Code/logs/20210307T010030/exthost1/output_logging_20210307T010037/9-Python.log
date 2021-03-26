@@ -1,0 +1,48 @@
+User belongs to experiment group 'pythonaa'
+User belongs to experiment group 'pythonSendEntireLineToREPL'
+User belongs to experiment group 'pythonNotDisplayLinterPrompt'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'ShowPlayIcon - start'
+User belongs to experiment group 'ShowExtensionSurveyPrompt - enabled'
+User belongs to experiment group 'DebugAdapterFactory - experiment'
+User belongs to experiment group 'PtvsdWheels37 - experiment'
+User belongs to experiment group 'UseTerminalToGetActivatedEnvVars - control'
+User belongs to experiment group 'AA_testing - experiment'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+User belongs to experiment group 'RunByLine - experiment'
+> pyenv root
+> conda --version
+> python3.7 ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3.6 ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python2 ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> conda info --json
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> pyenv root
+> pyenv root
+> pyenv root
+Error 2021-03-07 01:00:40: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file '/run/media/n30/Jarvis/Work/Soft_dev/python-fast_api-CRUD/.vscode/settings.json' (Error: Unable to resolve non-existing file '/run/media/n30/Jarvis/Work/Soft_dev/python-fast_api-CRUD/.vscode/settings.json')
+	at _handleError (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:86:136165)
+	at processTicksAndRejections (internal/process/task_queues.js:97:5)
+	at async y.readText (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:9:298390)
+	at async p.doesFileNeedToBeFixed (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:481374)
+	at async /home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:480501
+	at async Promise.all (index 1)
+	at async p.getFilesToBeFixed (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:480447)
+	at async p.updateTestSettings (/home/n30/.vscode/extensions/ms-python.python-2021.2.582707922/out/client/extension.js:59:480074)] {
+  code: 'FileNotFound'
+}
+> pyenv root
+> pyenv root
+Starting Pylance language server.
+Python interpreter path: /usr/bin/python
+> pyenv root
+> pyenv root
+> pyenv root
+> conda --version

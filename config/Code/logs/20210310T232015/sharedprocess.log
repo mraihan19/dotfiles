@@ -1,0 +1,20 @@
+[2021-03-10 23:20:19.709] [sharedprocess] [info] Deleted from disk pkief.material-product-icons /home/n30/.vscode/extensions/pkief.material-product-icons-1.0.2
+[2021-03-10 23:20:23.324] [sharedprocess] [info] Installing extension: gruntfuggly.todo-tree
+[2021-03-10 23:20:23.326] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-03-10 23:20:23.327] [sharedprocess] [info] Installing extension: wallabyjs.quokka-vscode
+[2021-03-10 23:20:28.368] [sharedprocess] [info] Downloaded extension: gruntfuggly.todo-tree undefined
+[2021-03-10 23:20:28.458] [sharedprocess] [info] Extracted extension to /home/n30/.vscode/extensions/.gruntfuggly.todo-tree-0.0.202: gruntfuggly.todo-tree
+[2021-03-10 23:20:28.458] [sharedprocess] [info] Renamed to /home/n30/.vscode/extensions/gruntfuggly.todo-tree-0.0.202
+[2021-03-10 23:20:28.459] [sharedprocess] [info] Installation completed. gruntfuggly.todo-tree
+[2021-03-10 23:20:28.467] [sharedprocess] [info] Extensions installed successfully: gruntfuggly.todo-tree
+[2021-03-10 23:20:35.584] [sharedprocess] [info] Downloaded extension: wallabyjs.quokka-vscode undefined
+[2021-03-10 23:20:38.216] [sharedprocess] [info] Extracted extension to /home/n30/.vscode/extensions/.wallabyjs.quokka-vscode-1.0.347: wallabyjs.quokka-vscode
+[2021-03-10 23:20:38.216] [sharedprocess] [info] Renamed to /home/n30/.vscode/extensions/wallabyjs.quokka-vscode-1.0.347
+[2021-03-10 23:20:38.218] [sharedprocess] [info] Installation completed. wallabyjs.quokka-vscode
+[2021-03-10 23:20:38.227] [sharedprocess] [info] Extensions installed successfully: wallabyjs.quokka-vscode
+[2021-03-10 23:20:48.026] [sharedprocess] [info] Downloaded extension: ms-python.python undefined
+[2021-03-10 23:20:49.461] [sharedprocess] [info] Extracted extension to /home/n30/.vscode/extensions/.ms-python.python-2021.2.633441544: ms-python.python
+[2021-03-10 23:20:49.461] [sharedprocess] [info] Renamed to /home/n30/.vscode/extensions/ms-python.python-2021.2.633441544
+[2021-03-10 23:20:49.465] [sharedprocess] [info] Installation completed. ms-python.python
+[2021-03-10 23:20:49.529] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2021-03-10 23:20:59.142] [sharedprocess] [info] Starting to clean up unused language packs.

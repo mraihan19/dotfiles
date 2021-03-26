@@ -1,0 +1,46 @@
+[2021-03-01 14:39:49.276] [renderer1] [error] Unable to write into user settings because the file is dirty. Please save the user settings file first and then try again.: Error: Unable to write into user settings because the file is dirty. Please save the user settings file first and then try again.
+    at w.reject (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:16717)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:20877
+    at async w.doWriteConfiguration (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:13896)
+[2021-03-01 14:43:42.314] [renderer1] [error] Unable to write to Workspace Settings because no workspace is opened. Please open a workspace first and try again.: Error: Unable to write to Workspace Settings because no workspace is opened. Please open a workspace first and try again.
+    at w.reject (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:16717)
+    at w.resolveAndValidate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:19941)
+    at w.doWriteConfiguration (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:13907)
+    at Object.factory (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:13683)
+    at f.consume (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:22217)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:22032
+    at new Promise (<anonymous>)
+    at f.queue (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:21956)
+    at writeConfiguration (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:13668)
+    at f.writeConfigurationValue (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:39262)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:28532
+    at Array.map (<anonymous>)
+    at f.updateValue (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:28520)
+[2021-03-01 14:49:05.492] [renderer1] [error] Unable to write to Workspace Settings because no workspace is opened. Please open a workspace first and try again.: Error: Unable to write to Workspace Settings because no workspace is opened. Please open a workspace first and try again.
+    at w.reject (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:16717)
+    at w.resolveAndValidate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:19941)
+    at w.doWriteConfiguration (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:13907)
+    at Object.factory (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:13683)
+    at f.consume (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:22217)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:22032
+    at new Promise (<anonymous>)
+    at f.queue (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:21956)
+    at writeConfiguration (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:13668)
+    at f.writeConfigurationValue (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:39262)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:28532
+    at Array.map (<anonymous>)
+    at f.updateValue (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:28520)
+[2021-03-01 14:53:33.360] [renderer1] [error] Unable to write to Workspace Settings because no workspace is opened. Please open a workspace first and try again.: Error: Unable to write to Workspace Settings because no workspace is opened. Please open a workspace first and try again.
+    at w.reject (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:16717)
+    at w.resolveAndValidate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:19941)
+    at w.doWriteConfiguration (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:13907)
+    at Object.factory (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:13683)
+    at f.consume (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:22217)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:22032
+    at new Promise (<anonymous>)
+    at f.queue (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:55:21956)
+    at writeConfiguration (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:13668)
+    at f.writeConfigurationValue (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:39262)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:28532
+    at Array.map (<anonymous>)
+    at f.updateValue (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1890:28520)

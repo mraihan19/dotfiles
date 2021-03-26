@@ -1,0 +1,64 @@
+[2021-03-22 17:57:49.513] [exthost] [info] extension host started
+[2021-03-22 17:57:49.663] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-03-22 17:57:49.664] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-03-22 17:57:49.687] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-03-22 17:57:49.687] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/ms-toolsai.jupyter-2021.2.603412351/out/client/extension
+[2021-03-22 17:57:49.986] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"extensionId":{"value":"VisualStudioExptTeam.vscodeintellicode","_lower":"visualstudioexptteam.vscodeintellicode"},"activationEvent":"onLanguage:python"}
+[2021-03-22 17:57:49.986] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.12/dist/intellicode
+[2021-03-22 17:57:50.101] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-03-22 17:57:50.102] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-03-22 17:57:50.105] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-22 17:57:50.105] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-03-22 17:57:50.166] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"*"}
+[2021-03-22 17:57:50.166] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/extension
+[2021-03-22 17:57:50.185] [exthost] [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview {"startup":true,"extensionId":{"value":"kisstkondoros.vscode-gutter-preview","_lower":"kisstkondoros.vscode-gutter-preview"},"activationEvent":"*"}
+[2021-03-22 17:57:50.186] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/kisstkondoros.vscode-gutter-preview-0.26.2/dist/extension
+[2021-03-22 17:57:50.213] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"extensionId":{"value":"oderwat.indent-rainbow","_lower":"oderwat.indent-rainbow"},"activationEvent":"*"}
+[2021-03-22 17:57:50.213] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/oderwat.indent-rainbow-7.5.0/out/extension
+[2021-03-22 17:57:50.216] [exthost] [info] ExtensionService#_doActivateExtension orepor.color-tabs-vscode-ext {"startup":true,"extensionId":{"value":"orepor.color-tabs-vscode-ext","_lower":"orepor.color-tabs-vscode-ext"},"activationEvent":"*"}
+[2021-03-22 17:57:50.216] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/orepor.color-tabs-vscode-ext-0.12.1/out/extension
+[2021-03-22 17:57:50.242] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-03-22 17:57:50.242] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/pkief.material-icon-theme-4.6.0/dist/extension
+[2021-03-22 17:57:50.274] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-03-22 17:57:50.275] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-03-22 17:57:50.724] [exthost] [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime {"startup":true,"extensionId":{"value":"WakaTime.vscode-wakatime","_lower":"wakatime.vscode-wakatime"},"activationEvent":"*"}
+[2021-03-22 17:57:50.725] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/wakatime.vscode-wakatime-5.0.1/dist/extension
+[2021-03-22 17:57:50.793] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode {"startup":true,"extensionId":{"value":"WallabyJs.quokka-vscode","_lower":"wallabyjs.quokka-vscode"},"activationEvent":"*"}
+[2021-03-22 17:57:50.793] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/wallabyjs.quokka-vscode-1.0.351/index
+[2021-03-22 17:57:50.794] [exthost] [info] ExtensionService#_doActivateExtension Yummygum.city-lights-icon-vsc {"startup":true,"extensionId":{"value":"Yummygum.city-lights-icon-vsc","_lower":"yummygum.city-lights-icon-vsc"},"activationEvent":"*"}
+[2021-03-22 17:57:50.794] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/yummygum.city-lights-icon-vsc-1.1.3/out/src/extension
+[2021-03-22 17:57:51.103] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-03-22 17:57:51.103] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-03-22 17:57:51.118] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:typescript"}
+[2021-03-22 17:57:51.118] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-03-22 17:57:51.144] [exthost] [info] ExtensionService#_doActivateExtension wix.vscode-import-cost {"startup":false,"extensionId":{"value":"wix.vscode-import-cost","_lower":"wix.vscode-import-cost"},"activationEvent":"onLanguage:typescript"}
+[2021-03-22 17:57:51.145] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/wix.vscode-import-cost-2.15.0/out/extension.js
+[2021-03-22 17:57:52.159] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-22 17:57:52.159] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-03-22 17:57:52.259] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-03-22 17:57:52.259] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-03-22 17:57:52.449] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-03-22 17:57:52.449] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/ms-python.python-2021.2.633441544/out/client/extension
+[2021-03-22 17:57:52.698] [exthost] [info] eager extensions activated
+[2021-03-22 17:57:52.708] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-03-22 17:57:52.709] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-03-22 17:57:52.724] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-03-22 17:57:52.724] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-03-22 17:57:52.728] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-03-22 17:57:52.728] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-03-22 17:57:52.729] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-03-22 17:57:52.729] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/esbenp.prettier-vscode-6.3.1/dist/extension
+[2021-03-22 17:57:52.864] [exthost] [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree {"startup":false,"extensionId":{"value":"Gruntfuggly.todo-tree","_lower":"gruntfuggly.todo-tree"},"activationEvent":"onStartupFinished"}
+[2021-03-22 17:57:52.865] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/gruntfuggly.todo-tree-0.0.208/dist/extension
+[2021-03-22 17:57:52.898] [exthost] [info] ExtensionService#_doActivateExtension softwaredotcom.swdc-vscode {"startup":false,"extensionId":{"value":"softwaredotcom.swdc-vscode","_lower":"softwaredotcom.swdc-vscode"},"activationEvent":"onStartupFinished"}
+[2021-03-22 17:57:52.898] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/softwaredotcom.swdc-vscode-2.5.3/dist/extension
+[2021-03-22 17:57:53.104] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-03-22 17:57:53.104] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-03-22 17:57:53.652] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-03-22 17:57:53.652] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n30/.vscode/extensions/ms-python.vscode-pylance-2021.3.2/dist/extension.bundle.js
+[2021-03-22 17:57:54.724] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-03-22 17:57:54.724] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-03-22 17:57:54.728] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-03-22 17:57:54.728] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-03-23 06:41:35.085] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-03-23 06:41:36.143] [exthost] [info] exiting with code 0

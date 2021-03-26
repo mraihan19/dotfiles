@@ -1,0 +1,17 @@
+[Applications][chromium]
+Seen=true
+
+[Applications][firefox]
+Seen=true
+
+[Applications][google-chrome]
+Seen=true
+
+[Applications][org.manjaro.pamac.manager]
+Seen=true
+
+[Applications][telegramdesktop]
+Seen=true
+
+[Notifications]
+PopupPosition=TopRight
