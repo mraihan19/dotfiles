@@ -1,0 +1,606 @@
+   info 2021-03-10 17:39:26.922         ad   main      2      2                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-03-10 17:39:26.922         ad   main      2      2                                  main - * AnyDesk Linux Startup *
+   info 2021-03-10 17:39:26.922         ad   main      2      2                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-03-10 17:39:26.922         ad   main      2      2                                  main - * Build 20210125094543
+   info 2021-03-10 17:39:26.922         ad   main      2      2                                  main - * Prefix ad
+   info 2021-03-10 17:39:26.922         ad   main      2      2                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-03-10 17:39:26.922         ad   main      2      2                                  main - 
+   info 2021-03-10 17:39:26.922         ad   main      2      2                                  main - Distribution Info: Freedesktop.org 20.08.6 (Flatpak runtime)
+   info 2021-03-10 17:39:26.922         ad   main      2      2                                  main - Found GLib Version: 2.64.
+  error 2021-03-10 17:39:26.928         ad   main      2      2         unix_base.dbus.logind_manager - Error instanciating Logind Manager: Could not connect: No such file or directory
+  error 2021-03-10 17:39:26.928         ad   main      2      2             unix_base.dbus.consolekit - Error instanciating ConsoleKit Manager: Could not connect: No such file or directory
+warning 2021-03-10 17:39:26.928         ad   main      2      2                 session_manager_dummy - Using session manager dummy. Wont be able to use loginscreen.
+   info 2021-03-10 17:39:26.928         ad   main      2      2                   fiber.ipc_namespace - Global: no
+   info 2021-03-10 17:39:26.928         ad   main      2      2                       app.common_path - user_data_dir = /home/n30/.anydesk, logged_in_user_data_dir = /home/n30/.anydesk, current_home = /home/n30
+
+   info 2021-03-10 17:39:26.928         ad   main      2      2                       app.common_path - initialized user = /home/n30/.anydesk, system = /home/n30/.anydesk
+   info 2021-03-10 17:39:26.940         ad   main      4      4                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-03-10 17:39:26.940         ad   main      4      4                                  main - * AnyDesk Linux Startup *
+   info 2021-03-10 17:39:26.940         ad   main      4      4                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-03-10 17:39:26.940         ad   main      4      4                                  main - * Build 20210125094543
+   info 2021-03-10 17:39:26.940         ad   main      4      4                                  main - * Prefix ad
+   info 2021-03-10 17:39:26.940         ad   main      4      4                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-03-10 17:39:26.940         ad   main      4      4                                  main - 
+   info 2021-03-10 17:39:26.940         ad   main      4      4                                  main - Distribution Info: Freedesktop.org 20.08.6 (Flatpak runtime)
+   info 2021-03-10 17:39:26.940         ad   main      4      4                                  main - Found GLib Version: 2.64.
+  error 2021-03-10 17:39:26.941         ad   main      4      4         unix_base.dbus.logind_manager - Error instanciating Logind Manager: Could not connect: No such file or directory
+  error 2021-03-10 17:39:26.941         ad   main      4      4             unix_base.dbus.consolekit - Error instanciating ConsoleKit Manager: Could not connect: No such file or directory
+warning 2021-03-10 17:39:26.941         ad   main      4      4                 session_manager_dummy - Using session manager dummy. Wont be able to use loginscreen.
+warning 2021-03-10 17:39:26.941         ad   main      4      4                   fiber.ipc_namespace - Local namespace without service.
+   info 2021-03-10 17:39:26.941         ad   main      4      4                   fiber.ipc_namespace - Global: no
+   info 2021-03-10 17:39:26.941         ad   main      4      4                       app.common_path - user_data_dir = /home/n30/.anydesk, logged_in_user_data_dir = /home/n30/.anydesk, current_home = /home/n30
+
+   info 2021-03-10 17:39:26.942         ad   main      4      4                       app.common_path - initialized user = /home/n30/.anydesk, system = /home/n30/.anydesk
+   info 2021-03-10 17:39:26.942         ad   main      4      4             app.named_process_starter - Spawning new process with: UID: 1000, DPY: , ID: , SEAT: 37696624
+   info 2021-03-10 17:39:26.942         ad   main      4      4                       app.common_path - user_data_dir = /home/n30/.anydesk, logged_in_user_data_dir = /home/n30/.anydesk, current_home = /home/n30
+
+   info 2021-03-10 17:39:26.942         ad   main      4      4                       app.common_path - initialized user = /home/n30/.anydesk, system = /home/n30/.anydesk
+   info 2021-03-10 17:39:26.942  local_svc   main      4      4                                  main - Starting local service process (4).
+   info 2021-03-10 17:39:26.943  local_svc   main      4      4                       fiber.scheduler - Spawning root fiber 1.
+   info 2021-03-10 17:39:26.943  local_svc   main      4      4                       fiber.scheduler - Scheduler started.
+   info 2021-03-10 17:39:26.943  local_svc   main      4      4    1                      app.service - Opening the IPC namespace.
+   info 2021-03-10 17:39:26.943  local_svc   main      4      4    1              fiber.ipc_namespace - Global: no
+   info 2021-03-10 17:39:26.943  local_svc   main      4      4    1                      app.service - Logging into the IPC namespace.
+   info 2021-03-10 17:39:26.943  local_svc   main      4      4    1                      app.service - Starting to supervise the IPC namespace.
+   info 2021-03-10 17:39:26.943  local_svc   main      4      4    1                      app.service - Starting the connector.
+   info 2021-03-10 17:39:26.944  local_svc   main      4      4    1            anynet.connection_mgr - Generating a new certificate and key.
+   info 2021-03-10 17:39:26.954         ad   main      6      6                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2021-03-10 17:39:26.954         ad   main      6      6                                  main - * AnyDesk Linux Startup *
+   info 2021-03-10 17:39:26.954         ad   main      6      6                                  main - * Version 6.1.0 (release/win_6.1.x 882f8cf9f05016d9d972a7d3cacd22caccc49781)
+   info 2021-03-10 17:39:26.954         ad   main      6      6                                  main - * Build 20210125094543
+   info 2021-03-10 17:39:26.954         ad   main      6      6                                  main - * Prefix ad
+   info 2021-03-10 17:39:26.954         ad   main      6      6                                  main - * Copyright (C) 2017 philandro Software GmbH *
+   info 2021-03-10 17:39:26.954         ad   main      6      6                                  main - 
+   info 2021-03-10 17:39:26.954         ad   main      6      6                                  main - Distribution Info: Freedesktop.org 20.08.6 (Flatpak runtime)
+   info 2021-03-10 17:39:26.954         ad   main      6      6                                  main - Found GLib Version: 2.64.
+  error 2021-03-10 17:39:26.955         ad   main      6      6         unix_base.dbus.logind_manager - Error instanciating Logind Manager: Could not connect: No such file or directory
+  error 2021-03-10 17:39:26.956         ad   main      6      6             unix_base.dbus.consolekit - Error instanciating ConsoleKit Manager: Could not connect: No such file or directory
+warning 2021-03-10 17:39:26.956         ad   main      6      6                 session_manager_dummy - Using session manager dummy. Wont be able to use loginscreen.
+   info 2021-03-10 17:39:26.956         ad   main      6      6                       app.common_path - user_data_dir = /home/n30/.anydesk, logged_in_user_data_dir = /home/n30/.anydesk, current_home = /home/n30
+
+   info 2021-03-10 17:39:26.956         ad   main      6      6                       app.common_path - initialized user = /home/n30/.anydesk, system = /home/n30/.anydesk
+   info 2021-03-10 17:39:26.959       tray   main      6      6                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-03-10 17:39:26.959       tray   main      6      6                           gui.gui_app - Using std-resolution bitmaps.
+   info 2021-03-10 17:39:26.973       tray   main      6      6                       base.signal.hub - 1 threads.
+   info 2021-03-10 17:39:26.973       tray   main      6      6                    app.tunnel_ft_comp - Ready.
+   info 2021-03-10 17:39:27.012       tray   ctrl      6     10                      unix_app.control - Control startup.
+  error 2021-03-10 17:39:27.013       tray   ctrl      6     10              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+   info 2021-03-10 17:39:27.029         ad   main      2      2                       app.common_path - user_data_dir = /home/n30/.anydesk, logged_in_user_data_dir = /home/n30/.anydesk, current_home = /home/n30
+
+   info 2021-03-10 17:39:27.029         ad   main      2      2                       app.common_path - initialized user = /home/n30/.anydesk, system = /home/n30/.anydesk
+   info 2021-03-10 17:39:27.029         ad   main      2      2                                  main - Starting frontend process (2).
+   info 2021-03-10 17:39:27.029  local_svc   main      4      4    1            anynet.connection_mgr - 2 CA certificate(s) loaded.
+   info 2021-03-10 17:39:27.030  local_svc   main      4      4    1                  fiber.scheduler - Spawning root fiber 2.
+   info 2021-03-10 17:39:27.030  local_svc   main      4      4    1                  fiber.scheduler - Spawning root fiber 3.
+   info 2021-03-10 17:39:27.030  local_svc   main      4      4    1                  fiber.scheduler - Spawning root fiber 4.
+   info 2021-03-10 17:39:27.030  local_svc   main      4      4    1                      app.service - Setting up the listen sockets.
+   info 2021-03-10 17:39:27.030  local_svc   main      4      4    1                  fiber.scheduler - Spawning root fiber 5.
+   info 2021-03-10 17:39:27.030  local_svc   main      4      4    1                      app.service - Service startup completed.
+   info 2021-03-10 17:39:27.030  local_svc   main      4      4    1            app.discovery_manager - Updated Discovery settings: repeat interval (1000), repeat limit (10), buffer interval (5000), port range (3)
+   info 2021-03-10 17:39:27.030  local_svc   main      4      4    1            app.discovery_manager - Starting Discovery.
+   info 2021-03-10 17:39:27.030  local_svc   main      4      4    1                   ad.wol_service - Starting WOL service.
+   info 2021-03-10 17:39:27.030  local_svc   main      4      4    1                  fiber.scheduler - Spawning child fiber 6 (parent 1).
+   info 2021-03-10 17:39:27.030  local_svc   main      4      4    1                      app.service - Waiting for messages.
+   info 2021-03-10 17:39:27.031  local_svc   main      4      4    1                      app.service - Process start: 2 (frontend).
+   info 2021-03-10 17:39:27.031  local_svc   main      4      4    1                      app.service - Process start: 6 (control:1000).
+   info 2021-03-10 17:39:27.031  local_svc   main      4      4    1                      app.service - New IPC connection.
+   info 2021-03-10 17:39:27.031  local_svc   main      4      4    1                  fiber.scheduler - Spawning child fiber 7 (parent 1).
+   info 2021-03-10 17:39:27.031  local_svc   main      4      4    2            anynet.connection_mgr - Starting connection manager fiber.
+   info 2021-03-10 17:39:27.031  local_svc   main      4      4    3           anynet.main_relay_conn - Starting main relay connection.
+   info 2021-03-10 17:39:27.031  local_svc   main      4      4    3           anynet.main_relay_conn - No connect addresses found. Starting with boot relays.
+   info 2021-03-10 17:39:27.031  local_svc   main      4      4    3           anynet.relay_connector - New execution plan:
+   info 2021-03-10 17:39:27.031  local_svc   main      4      4    3           anynet.relay_connector - Relay 0:
+   info 2021-03-10 17:39:27.031  local_svc   main      4      4    3           anynet.relay_connector -  boot-01.net.anydesk.com:443 (ID 1, offset 0)
+   info 2021-03-10 17:39:27.031  local_svc   main      4      4    3           anynet.relay_connector -  boot-01.net.anydesk.com:80 (ID 3, offset 2000)
+   info 2021-03-10 17:39:27.031  local_svc   main      4      4    3           anynet.relay_connector -  boot-01.net.anydesk.com:6568 (ID 5, offset 4000)
+   info 2021-03-10 17:39:27.031  local_svc   main      4      4    3           anynet.relay_connector -  boot-01.net.anydesk.com:443 (ID 7, offset 6000, with proxy)
+   info 2021-03-10 17:39:27.031  local_svc   main      4      4    3           anynet.relay_connector -  boot-01.net.anydesk.com:80 (ID 9, offset 8000, with proxy)
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    3           anynet.relay_connector -  boot-01.net.anydesk.com:6568 (ID 11, offset 10000, with proxy)
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    3           anynet.relay_connector - Relay 1:
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    3           anynet.relay_connector -  boot-02.net.anydesk.com:443 (ID 13, offset 12000)
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    3           anynet.relay_connector -  boot-02.net.anydesk.com:80 (ID 15, offset 14000)
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    3           anynet.relay_connector -  boot-02.net.anydesk.com:6568 (ID 17, offset 16000)
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    3           anynet.relay_connector -  boot-02.net.anydesk.com:443 (ID 19, offset 18000, with proxy)
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    3           anynet.relay_connector -  boot-02.net.anydesk.com:80 (ID 21, offset 20000, with proxy)
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    3           anynet.relay_connector -  boot-02.net.anydesk.com:6568 (ID 23, offset 22000, with proxy)
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    3           anynet.relay_connector - Wait for previous tasks to finish (task 26).
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    3           anynet.relay_connector - Pause for 1000 to 48000 ms and repeat (task 27).
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    3           anynet.relay_connector - Plan complete.
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    3                  fiber.exec_plan - Running execution plan.
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    3                  fiber.scheduler - Spawning child fiber 8 (parent 3).
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    3                  fiber.exec_plan - Waiting for 2000 msecs (2).
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    4                anynet.tcp_socket - Listening on port 7070.
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    4              anynet.tcp_acceptor - Listening on TCP port 7070.
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    5                anynet.any_socket - Listen fiber started.
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    6                      anynet.conn - Request before connect. Queueing.
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    7                      app.service - Creating an IPC accept socket.
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    7                      app.service - Connected to 6 (control:1000).
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    8                  fiber.exec_plan - Running task 1 (timeout 30000).
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    8                  fiber.scheduler - Spawning child fiber 9 (parent 8).
+   info 2021-03-10 17:39:27.032  local_svc   main      4      4    8           anynet.relay_connector - Connecting to boot-01.net.anydesk.com:443.
+   info 2021-03-10 17:39:27.033  local_svc   main      4      4    7                      app.service - Process login detected.
+   info 2021-03-10 17:39:27.033  local_svc   main      4      4    7                      app.service - Using existing control (6).
+  error 2021-03-10 17:39:27.033       tray   wrk0      6     11              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-03-10 17:39:27.033       tray   wrk0      6     11                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2021-03-10 17:39:27.033       tray   wrk0      6     11        base.signal.global.shared_file - open (/var/lib/AccountsService/users/n30) failed (2): No such file or directory 
+warning 2021-03-10 17:39:27.033       tray   wrk0      6     11                      unix_app.control - Could not update account image (File not found: /home/n30/.face.icon).
+   info 2021-03-10 17:39:27.040   frontend   main      2      2                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2021-03-10 17:39:27.040   frontend   main      2      2                           gui.gui_app - Using std-resolution bitmaps.
+warning 2021-03-10 17:39:27.057   frontend   main      2      2        base.signal.global.shared_file - open (/var/lib/AccountsService/users/n30) failed (2): No such file or directory 
+warning 2021-03-10 17:39:27.057   frontend   main      2      2                         app.user_info - Could not update user image (File not found: /home/n30/.face.icon). Defaulting.
+   info 2021-03-10 17:39:27.061   frontend   main      2      2                       base.signal.hub - 16 threads.
+   info 2021-03-10 17:39:27.061   frontend   timr      2     16          base.signal.local.timer_impl - Initialized master timer.
+   info 2021-03-10 17:39:27.283  local_svc   main      4      4                     anynet.tcp_socket - Connection established.
+   info 2021-03-10 17:39:27.283  local_svc   main      4      4    8           anynet.relay_connector - Connected to boot-01.net.anydesk.com:443.
+   info 2021-03-10 17:39:27.283  local_svc   main      4      4    8           anynet.relay_connector - Attempting login.
+   info 2021-03-10 17:39:27.283  local_svc   main      4      4    8                        handshake - Client-side TLS handshake.
+   info 2021-03-10 17:39:27.700  local_svc   main      4      4                  anynet.ssl_transform - Handshake succeeded.
+   info 2021-03-10 17:39:27.700  local_svc   main      4      4                  anynet.ssl_transform - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2021-03-10 17:39:27.700  local_svc   main      4      4    8                        handshake - TLS handshake complete. Negotiating protocol.
+   info 2021-03-10 17:39:27.704  local_svc   main      4      4    8                        handshake - Using protocol version 3.
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    8           anynet.relay_connector - Received proto term (anynet_invalid_zone).
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    8           anynet.relay_connector - New relays were added. Restarting connect.
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4                       fiber.scheduler - Fiber 8 requested quit of fiber 9.
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4                       fiber.scheduler - Fiber 9 terminated.
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4                       fiber.scheduler - Fiber 3 requested quit of fiber 8.
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4                       fiber.scheduler - Fiber 8 terminated.
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3                  fiber.exec_plan - Execution plan cancelled.
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector - New execution plan:
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector - Relay 0 (ID e19d21d5):
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector -  relay-e19d21d5.net.anydesk.com:80 (ID 1, offset 0)
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector -  relay-e19d21d5.net.anydesk.com:443 (ID 3, offset 2000)
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector -  relay-e19d21d5.net.anydesk.com:6568 (ID 5, offset 4000)
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector -  136.243.57.19:80 (ID 7, offset 6000)
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector -  136.243.57.19:443 (ID 9, offset 8000)
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector -  136.243.57.19:6568 (ID 11, offset 10000)
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector -  relay-e19d21d5.net.anydesk.com:80 (ID 13, offset 12000, with proxy)
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector -  relay-e19d21d5.net.anydesk.com:443 (ID 15, offset 14000, with proxy)
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector -  relay-e19d21d5.net.anydesk.com:6568 (ID 17, offset 16000, with proxy)
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector -  136.243.57.19:80 (ID 19, offset 18000, with proxy)
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector -  136.243.57.19:443 (ID 21, offset 20000, with proxy)
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector -  136.243.57.19:6568 (ID 23, offset 22000, with proxy)
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector - Relay 1 (ID f8763563):
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector -  relay-f8763563.net.anydesk.com:80 (ID 25, offset 24000)
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector -  relay-f8763563.net.anydesk.com:443 (ID 27, offset 26000)
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector -  relay-f8763563.net.anydesk.com:6568 (ID 29, offset 28000)
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector -  51.89.98.181:80 (ID 31, offset 30000)
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector -  51.89.98.181:443 (ID 33, offset 32000)
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector -  51.89.98.181:6568 (ID 35, offset 34000)
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector -  relay-f8763563.net.anydesk.com:80 (ID 37, offset 36000, with proxy)
+   info 2021-03-10 17:39:27.908  local_svc   main      4      4    3           anynet.relay_connector -  relay-f8763563.net.anydesk.com:443 (ID 39, offset 38000, with proxy)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  relay-f8763563.net.anydesk.com:6568 (ID 41, offset 40000, with proxy)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  51.89.98.181:80 (ID 43, offset 42000, with proxy)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  51.89.98.181:443 (ID 45, offset 44000, with proxy)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  51.89.98.181:6568 (ID 47, offset 46000, with proxy)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector - Relay 2 (ID 7fc5252b):
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  relay-7fc5252b.net.anydesk.com:80 (ID 49, offset 48000)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  relay-7fc5252b.net.anydesk.com:443 (ID 51, offset 50000)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  relay-7fc5252b.net.anydesk.com:6568 (ID 53, offset 52000)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  138.199.14.85:80 (ID 55, offset 54000)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  138.199.14.85:443 (ID 57, offset 56000)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  138.199.14.85:6568 (ID 59, offset 58000)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  relay-7fc5252b.net.anydesk.com:80 (ID 61, offset 60000, with proxy)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  relay-7fc5252b.net.anydesk.com:443 (ID 63, offset 62000, with proxy)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  relay-7fc5252b.net.anydesk.com:6568 (ID 65, offset 64000, with proxy)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  138.199.14.85:80 (ID 67, offset 66000, with proxy)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  138.199.14.85:443 (ID 69, offset 68000, with proxy)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  138.199.14.85:6568 (ID 71, offset 70000, with proxy)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector - Relay 3:
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  boot-01.net.anydesk.com:443 (ID 73, offset 72000)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  boot-01.net.anydesk.com:80 (ID 75, offset 74000)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  boot-01.net.anydesk.com:6568 (ID 77, offset 76000)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  boot-01.net.anydesk.com:443 (ID 79, offset 78000, with proxy)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  boot-01.net.anydesk.com:80 (ID 81, offset 80000, with proxy)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  boot-01.net.anydesk.com:6568 (ID 83, offset 82000, with proxy)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector - Relay 4:
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  boot-02.net.anydesk.com:443 (ID 85, offset 84000)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  boot-02.net.anydesk.com:80 (ID 87, offset 86000)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  boot-02.net.anydesk.com:6568 (ID 89, offset 88000)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  boot-02.net.anydesk.com:443 (ID 91, offset 90000, with proxy)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  boot-02.net.anydesk.com:80 (ID 93, offset 92000, with proxy)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector -  boot-02.net.anydesk.com:6568 (ID 95, offset 94000, with proxy)
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector - Wait for previous tasks to finish (task 98).
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector - Pause for 1000 to 48000 ms and repeat (task 99).
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3           anynet.relay_connector - Plan complete.
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3                  fiber.exec_plan - Running execution plan.
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3                  fiber.scheduler - Spawning child fiber 10 (parent 3).
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4    3                  fiber.exec_plan - Waiting for 2000 msecs (2).
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4   10                  fiber.exec_plan - Running task 1 (timeout 30000).
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4   10                  fiber.scheduler - Spawning child fiber 11 (parent 10).
+   info 2021-03-10 17:39:27.909  local_svc   main      4      4   10           anynet.relay_connector - Connecting to relay-e19d21d5.net.anydesk.com:80.
+   info 2021-03-10 17:39:28.212  local_svc   main      4      4                     anynet.tcp_socket - Connection established.
+   info 2021-03-10 17:39:28.212  local_svc   main      4      4   10           anynet.relay_connector - Connected to relay-e19d21d5.net.anydesk.com:80.
+   info 2021-03-10 17:39:28.212  local_svc   main      4      4   10           anynet.relay_connector - Attempting login.
+   info 2021-03-10 17:39:28.212  local_svc   main      4      4   10                        handshake - Client-side TLS handshake.
+   info 2021-03-10 17:39:28.275   frontend   ctrl      2     23                     unix_app.frontend - Frontend startup.
+   info 2021-03-10 17:39:28.275   frontend   ctrl      2     23                     unix_app.frontend - Logging the frontend in.
+   info 2021-03-10 17:39:28.275  local_svc   main      4      4    1                      app.service - Process start: 2 (frontend).
+   info 2021-03-10 17:39:28.275  local_svc   main      4      4    1                      app.service - New IPC connection.
+   info 2021-03-10 17:39:28.275  local_svc   main      4      4    1                  fiber.scheduler - Spawning child fiber 12 (parent 1).
+   info 2021-03-10 17:39:28.276  local_svc   main      4      4   12                      app.service - Creating an IPC accept socket.
+   info 2021-03-10 17:39:28.276  local_svc   main      4      4   12                      app.service - Connected to 2 (frontend).
+   info 2021-03-10 17:39:28.276  local_svc   main      4      4   12                      app.service - Process login detected.
+warning 2021-03-10 17:39:28.277   frontend   wrk1      2     25        base.signal.global.shared_file - open (/var/lib/AccountsService/users/n30) failed (2): No such file or directory 
+warning 2021-03-10 17:39:28.277   frontend   wrk1      2     25                         app.user_info - Could not update user image (File not found: /home/n30/.face.icon). Defaulting.
+   info 2021-03-10 17:39:28.352   frontend    x11      2     15                     base.monitor_info - Monitor 0: x/y : 0/0
+   info 2021-03-10 17:39:28.352   frontend    x11      2     15                     base.monitor_info - Monitor 0: w/h : 1920/1080
+   info 2021-03-10 17:39:28.352   frontend    x11      2     15                     base.monitor_info - Monitor 0 output=66
+   info 2021-03-10 17:39:28.352   frontend    x11      2     15                     base.monitor_info - Monitor 1: x/y : 1920/0
+   info 2021-03-10 17:39:28.352   frontend    x11      2     15                     base.monitor_info - Monitor 1: w/h : 1920/1080
+   info 2021-03-10 17:39:28.352   frontend    x11      2     15                     base.monitor_info - Monitor 1 output=579
+   info 2021-03-10 17:39:28.354   frontend   main      2      2                     unix_app.frontend - Monitoring online states.
+   info 2021-03-10 17:39:28.354   frontend   main      2      2                     unix_app.frontend - Monitoring online states.
+   info 2021-03-10 17:39:28.355   frontend   main      2      2                     unix_app.frontend - Monitoring online states.
+   info 2021-03-10 17:39:28.819  local_svc   main      4      4                  anynet.ssl_transform - Handshake succeeded.
+   info 2021-03-10 17:39:28.819  local_svc   main      4      4                  anynet.ssl_transform - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2021-03-10 17:39:28.819  local_svc   main      4      4   10                        handshake - TLS handshake complete. Negotiating protocol.
+   info 2021-03-10 17:39:28.819  local_svc   main      4      4   10                        handshake - Using protocol version 3.
+   info 2021-03-10 17:39:29.182  local_svc   main      4      4   10           anynet.relay_connector - Protocol handshake succeeded.
+   info 2021-03-10 17:39:29.182  local_svc   main      4      4                       fiber.scheduler - Fiber 10 requested quit of fiber 11.
+   info 2021-03-10 17:39:29.182  local_svc   main      4      4                       fiber.scheduler - Fiber 11 terminated.
+   info 2021-03-10 17:39:29.182  local_svc   main      4      4                       fiber.scheduler - Fiber 3 requested quit of fiber 10.
+   info 2021-03-10 17:39:29.183  local_svc   main      4      4                       fiber.scheduler - Fiber 10 terminated.
+   info 2021-03-10 17:39:29.183  local_svc   main      4      4    3                  fiber.exec_plan - Execution plan cancelled.
+   info 2021-03-10 17:39:29.184  local_svc   main      4      4    3           anynet.main_relay_conn - Main relay ID: e19d21d5
+   info 2021-03-10 17:39:29.184  local_svc   main      4      4    3           anynet.main_relay_conn - Network ID: main
+   info 2021-03-10 17:39:29.185  local_svc   main      4      4    3                anynet.relay_conn - External address: 103.87.214.216:38467.
+   info 2021-03-10 17:39:29.185  local_svc   main      4      4    3           anynet.main_relay_conn - Reporting system information.
+   info 2021-03-10 17:39:29.218  local_svc   main      4      4    3           anynet.main_relay_conn - Detected 2 new networks.
+   info 2021-03-10 17:39:29.218  local_svc   main      4      4    2            anynet.connection_mgr - Main relay connection established.
+   info 2021-03-10 17:39:29.218  local_svc   main      4      4    2            anynet.connection_mgr - New user data. Client-ID: 812011668.
+warning 2021-03-10 17:39:29.219   frontend   wrk1      2     25        base.signal.global.shared_file - open (/var/lib/AccountsService/users/n30) failed (2): No such file or directory 
+warning 2021-03-10 17:39:29.219   frontend   wrk1      2     25                         app.user_info - Could not update user image (File not found: /home/n30/.face.icon). Defaulting.
+   info 2021-03-10 17:39:29.537  local_svc   main      4      4    1                    app.discovery - Starting.
+   info 2021-03-10 17:39:29.537  local_svc   main      4      4    1                  fiber.scheduler - Spawning root fiber 13.
+   info 2021-03-10 17:39:29.539  local_svc   main      4      4   13                    app.discovery - Current Discovery revision: 0
+   info 2021-03-10 17:39:29.539   frontend   main      2      2                     unix_app.frontend - Monitoring online states.
+   info 2021-03-10 17:39:29.539  local_svc   main      4      4   13                    app.discovery - Joined multicast group 239.255.102.18:50001.
+   info 2021-03-10 17:39:29.539  local_svc   main      4      4   13                    app.discovery - Bound to port: 50001
+   info 2021-03-10 17:39:29.539  local_svc   main      4      4   13                anynet.udp_socket - Multicast loop option set to 0
+   info 2021-03-10 17:39:29.545  local_svc   main      4      4   13                    app.discovery - Discovery fiber started.
+   info 2021-03-10 17:39:29.546   frontend   main      2      2                     unix_app.frontend - Monitoring online states.
+   info 2021-03-10 17:39:29.558   frontend   main      2      2                     unix_app.frontend - Monitoring online states.
+   info 2021-03-10 17:39:46.496   frontend   main      2      2                     unix_app.frontend - Monitoring online states.
+   info 2021-03-10 17:39:46.619   frontend   main      2      2                     unix_app.frontend - Monitoring online states.
+   info 2021-03-10 17:39:46.956   frontend   main      2      2                     unix_app.frontend - Monitoring online states.
+   info 2021-03-10 17:39:50.323   frontend   main      2      2                     unix_app.frontend - Monitoring online states.
+   info 2021-03-10 17:39:50.489   frontend   main      2      2                     unix_app.frontend - Monitoring online states.
+   info 2021-03-10 17:39:50.619   frontend   main      2      2                     unix_app.frontend - Monitoring online states.
+   info 2021-03-10 17:39:54.138   frontend   main      2      2                     unix_app.frontend - Monitoring online states.
+   info 2021-03-10 17:39:54.246   frontend   main      2      2                     unix_app.frontend - Monitoring online states.
+   info 2021-03-10 17:39:54.381   frontend   main      2      2                     unix_app.frontend - Monitoring online states.
+   info 2021-03-10 17:39:57.841   frontend   main      2      2                     unix_app.frontend - Sending a connection request for address 195272717.
+warning 2021-03-10 17:39:57.842   frontend   main      2      2        base.signal.global.shared_file - open (/var/lib/AccountsService/users/n30) failed (2): No such file or directory 
+warning 2021-03-10 17:39:57.842   frontend   main      2      2                         app.user_info - Could not update user image (File not found: /home/n30/.face.icon). Defaulting.
+   info 2021-03-10 17:39:57.848   frontend   timr      2     44          base.signal.local.timer_impl - Initialized master timer.
+   info 2021-03-10 17:39:57.848   frontend   timr      2     45          base.signal.local.timer_impl - Initialized master timer.
+   info 2021-03-10 17:39:57.862   frontend   main      2      2                      audio.pa_wrapper - Connecting to PulseAudio server
+   info 2021-03-10 17:39:57.863   frontend     pa      2     46                      audio.pa_wrapper - Authorizing on PulseAudio server
+   info 2021-03-10 17:39:57.864   frontend     pa      2     46                      audio.pa_wrapper - Connection to PulseAudio server established
+   info 2021-03-10 17:39:57.889  local_svc   main      4      4    1                      app.service - New IPC connection.
+   info 2021-03-10 17:39:57.889  local_svc   main      4      4    1                  fiber.scheduler - Spawning child fiber 14 (parent 1).
+   info 2021-03-10 17:39:57.889  local_svc   main      4      4   14                      app.service - Creating an IPC accept socket.
+   info 2021-03-10 17:39:57.889  local_svc   main      4      4   14                      app.service - Connected to 2 (frontend).
+   info 2021-03-10 17:39:57.957   frontend   main      2      2                     unix_app.frontend - Session count: 1
+   info 2021-03-10 17:39:57.957   frontend   ctrl      2     23                  app.frontend_session - Requesting session.
+   info 2021-03-10 17:39:57.957  local_svc   main      4      4   14                      app.session - Session features: deskrt, clipboard, chat, audio, input, tcp_tunnel.
+   info 2021-03-10 17:39:57.957  local_svc   main      4      4   14                      app.service - Creating remote control session.
+   info 2021-03-10 17:39:57.957  local_svc   main      4      4   14         anynet.client_packetizer - Adjusted send buffer: 8192
+   info 2021-03-10 17:39:57.957  local_svc   main      4      4   14                anynet.any_socket - Keepalive is disabled
+   info 2021-03-10 17:39:57.957  local_svc   main      4      4   14                      app.session - 1: Connecting to "195272717"
+   info 2021-03-10 17:39:57.957  local_svc   main      4      4   14                  fiber.scheduler - Spawning root fiber 15.
+   info 2021-03-10 17:39:57.957  local_svc   main      4      4   15                anynet.any_socket - Connect fiber spawned.
+   info 2021-03-10 17:39:57.957  local_svc   main      4      4   15                anynet.any_socket - Connecting to 195272717.
+   info 2021-03-10 17:39:57.957  local_svc   main      4      4   15                anynet.any_socket - Retrieving client information.
+   info 2021-03-10 17:39:58.020   frontend   main      2      2                       gui.main_window - Hide panel 0
+   info 2021-03-10 17:39:58.020   frontend    x11      2     15                          unix_app.xkb - Building charcode translation table.
+   info 2021-03-10 17:39:58.279  local_svc   main      4      4   15                anynet.any_socket - Client-ID: 195272717 (FPR: d01397dc3eec).
+   info 2021-03-10 17:39:58.279  local_svc   main      4      4   15                anynet.any_socket - Logged in from 103.217.111.202:58168 on relay 1379aa09.
+   info 2021-03-10 17:39:58.279  local_svc   main      4      4   15            anynet.connection_mgr - Making a new connection to client d01397dc3eec4eadfd5070d338f3f2b6f4a53035.
+   info 2021-03-10 17:39:58.279  local_svc   main      4      4   15                  fiber.scheduler - Spawning root fiber 16.
+   info 2021-03-10 17:39:58.279  local_svc   main      4      4   15                anynet.any_socket - Sending a connect request (on the clients relay).
+   info 2021-03-10 17:39:58.279  local_svc   main      4      4   15            anynet.connection_mgr - Making a new connection to relay 1379aa09.
+   info 2021-03-10 17:39:58.280  local_svc   main      4      4   15                  fiber.scheduler - Spawning root fiber 17.
+   info 2021-03-10 17:39:58.280  local_svc   main      4      4   15                      anynet.conn - Request before connect. Queueing.
+   info 2021-03-10 17:39:58.280  local_svc   main      4      4   16                  fiber.scheduler - Spawning child fiber 18 (parent 16).
+   info 2021-03-10 17:39:58.280  local_svc   main      4      4   17           anynet.relay_connector - New execution plan:
+   info 2021-03-10 17:39:58.280  local_svc   main      4      4   17           anynet.relay_connector - Relay 0 (ID 1379aa09):
+   info 2021-03-10 17:39:58.280  local_svc   main      4      4   17           anynet.relay_connector -  relay-1379aa09.net.anydesk.com:80 (ID 1, offset 0)
+   info 2021-03-10 17:39:58.280  local_svc   main      4      4   17           anynet.relay_connector -  relay-1379aa09.net.anydesk.com:443 (ID 3, offset 2000)
+   info 2021-03-10 17:39:58.280  local_svc   main      4      4   17           anynet.relay_connector -  relay-1379aa09.net.anydesk.com:6568 (ID 5, offset 4000)
+   info 2021-03-10 17:39:58.280  local_svc   main      4      4   17           anynet.relay_connector -  138.199.14.81:80 (ID 7, offset 6000)
+   info 2021-03-10 17:39:58.280  local_svc   main      4      4   17           anynet.relay_connector -  138.199.14.81:443 (ID 9, offset 8000)
+   info 2021-03-10 17:39:58.280  local_svc   main      4      4   17           anynet.relay_connector -  138.199.14.81:6568 (ID 11, offset 10000)
+   info 2021-03-10 17:39:58.280  local_svc   main      4      4   17           anynet.relay_connector -  relay-1379aa09.net.anydesk.com:80 (ID 13, offset 12000, with proxy)
+   info 2021-03-10 17:39:58.280  local_svc   main      4      4   17           anynet.relay_connector -  relay-1379aa09.net.anydesk.com:443 (ID 15, offset 14000, with proxy)
+   info 2021-03-10 17:39:58.280  local_svc   main      4      4   17           anynet.relay_connector -  relay-1379aa09.net.anydesk.com:6568 (ID 17, offset 16000, with proxy)
+   info 2021-03-10 17:39:58.280  local_svc   main      4      4   17           anynet.relay_connector -  138.199.14.81:80 (ID 19, offset 18000, with proxy)
+   info 2021-03-10 17:39:58.280  local_svc   main      4      4   17           anynet.relay_connector -  138.199.14.81:443 (ID 21, offset 20000, with proxy)
+   info 2021-03-10 17:39:58.280  local_svc   main      4      4   17           anynet.relay_connector -  138.199.14.81:6568 (ID 23, offset 22000, with proxy)
+   info 2021-03-10 17:39:58.280  local_svc   main      4      4   17           anynet.relay_connector - Plan complete.
+   info 2021-03-10 17:39:58.280  local_svc   main      4      4   17                  fiber.exec_plan - Running execution plan.
+   info 2021-03-10 17:39:58.280  local_svc   main      4      4   17                  fiber.scheduler - Spawning child fiber 19 (parent 17).
+   info 2021-03-10 17:39:58.280  local_svc   main      4      4   17                  fiber.exec_plan - Waiting for 2000 msecs (2).
+   info 2021-03-10 17:39:58.281  local_svc   main      4      4   19                  fiber.exec_plan - Running task 1 (timeout 30000).
+   info 2021-03-10 17:39:58.281  local_svc   main      4      4   19                  fiber.scheduler - Spawning child fiber 20 (parent 19).
+   info 2021-03-10 17:39:58.281  local_svc   main      4      4   19           anynet.relay_connector - Connecting to relay-1379aa09.net.anydesk.com:80.
+   info 2021-03-10 17:39:58.588  local_svc   main      4      4                     anynet.tcp_socket - Connection established.
+   info 2021-03-10 17:39:58.588  local_svc   main      4      4   19           anynet.relay_connector - Connected to relay-1379aa09.net.anydesk.com:80.
+   info 2021-03-10 17:39:58.589  local_svc   main      4      4   19           anynet.relay_connector - Attempting login.
+   info 2021-03-10 17:39:58.589  local_svc   main      4      4   19                        handshake - Client-side TLS handshake.
+   info 2021-03-10 17:39:59.182  local_svc   main      4      4                  anynet.ssl_transform - Handshake succeeded.
+   info 2021-03-10 17:39:59.182  local_svc   main      4      4                  anynet.ssl_transform - Cipher: ECDHE-ECDSA-AES256-GCM-SHA384 TLSv1.2 Kx=ECDH Au=ECDSA Enc=AESGCM(256) Mac=AEAD
+   info 2021-03-10 17:39:59.182  local_svc   main      4      4   19                        handshake - TLS handshake complete. Negotiating protocol.
+   info 2021-03-10 17:39:59.182  local_svc   main      4      4   19                        handshake - Using protocol version 3.
+   info 2021-03-10 17:39:59.559  local_svc   main      4      4   19           anynet.relay_connector - Protocol handshake succeeded.
+   info 2021-03-10 17:39:59.559  local_svc   main      4      4                       fiber.scheduler - Fiber 19 requested quit of fiber 20.
+   info 2021-03-10 17:39:59.559  local_svc   main      4      4                       fiber.scheduler - Fiber 20 terminated.
+   info 2021-03-10 17:39:59.559  local_svc   main      4      4                       fiber.scheduler - Fiber 17 requested quit of fiber 19.
+   info 2021-03-10 17:39:59.559  local_svc   main      4      4                       fiber.scheduler - Fiber 19 terminated.
+   info 2021-03-10 17:39:59.559  local_svc   main      4      4   17                  fiber.exec_plan - Execution plan cancelled.
+   info 2021-03-10 17:39:59.559  local_svc   main      4      4   17           anynet.supp_relay_conn - Relay ID: 1379aa09
+   info 2021-03-10 17:39:59.559  local_svc   main      4      4   17                anynet.relay_conn - External address: 103.87.214.218:45195.
+   info 2021-03-10 17:39:59.559  local_svc   main      4      4   17                anynet.tcp_socket - Listening on port 45195.
+   info 2021-03-10 17:39:59.560  local_svc   main      4      4   17                anynet.relay_conn - Punch socket set up on port 45195.
+   info 2021-03-10 17:39:59.560  local_svc   main      4      4    2            anynet.connection_mgr - Supplementary relay connection to 1379aa09 established.
+   info 2021-03-10 17:40:00.446  local_svc   main      4      4   15                anynet.any_socket - Connect request accepted, tunnel route created.
+   info 2021-03-10 17:40:00.446  local_svc   main      4      4   15                anynet.any_socket - Local vport: 10, Remote vport: 10, SID: 1613890876170107
+   info 2021-03-10 17:40:00.446  local_svc   main      4      4   15                anynet.any_socket - Sending 0 queued blobs.
+   info 2021-03-10 17:40:00.446  local_svc   main      4      4   15                anynet.any_socket - Initiating the managed connection.
+warning 2021-03-10 17:40:00.446  local_svc   main      4      4   15                anynet.any_socket - Unexpected: connect_msg_t.
+   info 2021-03-10 17:40:00.446  local_svc   main      4      4   18           anynet.punch_connector - Spawning fibers for 3 potential connect addresses.
+   info 2021-03-10 17:40:00.446  local_svc   main      4      4   18           anynet.punch_connector - -> Spawning: 192.168.0.110:7070 (0).
+   info 2021-03-10 17:40:00.446  local_svc   main      4      4   18                  fiber.scheduler - Spawning child fiber 21 (parent 18).
+   info 2021-03-10 17:40:00.446  local_svc   main      4      4   18           anynet.punch_connector - -> Spawning: 103.217.111.202:58168 (1).
+   info 2021-03-10 17:40:00.446  local_svc   main      4      4   18                  fiber.scheduler - Spawning child fiber 22 (parent 18).
+   info 2021-03-10 17:40:00.446  local_svc   main      4      4   18           anynet.punch_connector - -> Spawning: 103.217.111.202:7070 (2).
+   info 2021-03-10 17:40:00.446  local_svc   main      4      4   18                  fiber.scheduler - Spawning child fiber 23 (parent 18).
+   info 2021-03-10 17:40:00.447  local_svc   main      4      4   14                      app.session - 1: Net connection established.
+   info 2021-03-10 17:40:00.447  local_svc   main      4      4   14                      app.session - 2: Requesting a session.
+   info 2021-03-10 17:40:00.447  local_svc   main      4      4   21           anynet.punch_connector - [192.168.0.110:7070] Regular connect.
+   info 2021-03-10 17:40:00.447  local_svc   main      4      4   22           anynet.punch_connector - [103.217.111.202:58168] Punch connect.
+   info 2021-03-10 17:40:00.447  local_svc   main      4      4   23           anynet.punch_connector - [103.217.111.202:7070] Regular connect.
+   info 2021-03-10 17:40:00.447  local_svc   main      4      4   22           anynet.punch_connector - [103.217.111.202:58168] Connecting.
+   info 2021-03-10 17:40:01.646  local_svc   main      4      4   14                      app.session - Using protocol version 4.
+   info 2021-03-10 17:40:01.646  local_svc   main      4      4   14                      app.session - 2: Session acknowledged.
+   info 2021-03-10 17:40:01.646  local_svc   main      4      4   14                      app.session - 3: Authentication.
+   info 2021-03-10 17:40:01.646  local_svc   main      4      4   14                      app.session - Forwarding wait for accept challenge (0).
+   info 2021-03-10 17:40:01.646   frontend   wrk1      2     25                  app.frontend_session - Remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, request_elevation, request_elevation_pw, clip_paste_files, clip_src_files, send_sas, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, keyb_hint_src, filetransfer_server, filetransfer_client, remote_printing, whiteboard, tcp_tunnel, privacy_feature, encoder_reset, two_factor_auth, reverse_remote_printing, force_remote_restart, lossless_codec, 34
+   info 2021-03-10 17:40:01.646   frontend   wrk1      2     25                  app.frontend_session - Remote OS: Windows
+   info 2021-03-10 17:40:01.646   frontend   wrk1      2     25                  app.frontend_session - Connection flags: direct paid 3 
+   info 2021-03-10 17:40:01.646   frontend   wrk1      2     25                  app.frontend_session - Remote version: 6.2.3
+   info 2021-03-10 17:40:01.646   frontend   wrk2      2     26                  app.frontend_session - Received wait for accept request.
+warning 2021-03-10 17:40:01.650   frontend   wrk2      2     26                  app.frontend_session - Remote asked for a volatile token, but we have none.
+   info 2021-03-10 17:40:01.667   frontend   main      2      2                     unix_app.frontend - Monitoring online states.
+   info 2021-03-10 17:40:01.668  local_svc   main      4      4   12                  fiber.scheduler - Spawning root fiber 24.
+   info 2021-03-10 17:40:01.668  local_svc   main      4      4   24               app.online_monitor - Online state monitor started.
+   info 2021-03-10 17:40:01.677   frontend   main      2      2                     unix_app.frontend - Monitoring online states.
+   info 2021-03-10 17:40:03.054  local_svc   main      4      4   14                      app.session - 3: Session granted.
+   info 2021-03-10 17:40:03.054  local_svc   main      4      4   14                      app.session - 4: Waiting for the frontend to be ready.
+   info 2021-03-10 17:40:03.078   frontend   ctrl      2     23                  app.frontend_session - Starting connect session.
+   info 2021-03-10 17:40:03.079   frontend    x11      2     15                          unix_app.xkb - Building charcode translation table.
+   info 2021-03-10 17:40:03.090   frontend   ctrl      2     23                          memory_arena - Reserving arena of 256 MB
+   info 2021-03-10 17:40:03.090   frontend   ctrl      2     23                          memory_arena - Reserving arena of 128 MB
+   info 2021-03-10 17:40:03.093   frontend   ctrl      2     23             desk_rt.display_component - Startup.
+   info 2021-03-10 17:40:03.095   frontend   ctrl      2     23                      app.clipbrd_comp - Engaging clipboard.
+   info 2021-03-10 17:40:03.095   frontend   ctrl      2     23                      app.clipbrd_comp - Ready.
+   info 2021-03-10 17:40:03.095   frontend   main      2      2                       clipbrd.capture - Clipboard capture running.
+   info 2021-03-10 17:40:03.100   frontend   ctrl      2     23                       audio.pa_render - Pulseaudio initalized.
+   info 2021-03-10 17:40:03.100   frontend   timr      2     56          base.signal.local.timer_impl - Initialized master timer.
+   info 2021-03-10 17:40:03.102   frontend   ctrl      2     23                  app.frontend_session - Session started.
+   info 2021-03-10 17:40:03.102  local_svc   main      4      4   14                      app.session - 4: Frontend ready.
+   info 2021-03-10 17:40:03.102  local_svc   main      4      4   14                      app.session - 5: Entering processing loop.
+   info 2021-03-10 17:40:03.102  local_svc   main      4      4   14         anynet.client_packetizer - Adjusted send buffer: 8192
+   info 2021-03-10 17:40:03.103  local_svc   main      4      4   14         anynet.client_packetizer - Adjusted send buffer: 8192
+  error 2021-03-10 17:40:03.103       tray   wrk0      6     11              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2021-03-10 17:40:03.103       tray   wrk0      6     11                        hub_ipc_socket - IPC packet deserialization failed.
+   info 2021-03-10 17:40:03.103   frontend   wrk2      2     26                  app.frontend_session - Received new remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, request_elevation, request_elevation_pw, clip_paste_files, clip_src_files, send_sas, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, keyb_hint_src, filetransfer_server, filetransfer_client, remote_printing, whiteboard, tcp_tunnel, privacy_feature, encoder_reset, two_factor_auth, reverse_remote_printing, force_remote_restart, lossless_codec, 34
+  error 2021-03-10 17:40:03.494  local_svc   main      4      4                     anynet.tcp_socket - Error in socket: 113
+warning 2021-03-10 17:40:03.494  local_svc   main      4      4   21           anynet.punch_connector - [192.168.0.110:7070] Socket error: result_invalid_state.
+   info 2021-03-10 17:40:03.494  local_svc   main      4      4                       fiber.scheduler - Fiber 21 terminated.
+   info 2021-03-10 17:40:05.514   frontend   wrk1      2     25                  app.frontend_session - Received new remote caps: sound_src, sound_sink, keyboard_sink, keyboard2, switch_sides, clip_paste_files, clip_src_files, send_sas, block_input, request_vp_dimensions, keyboard_unicode, sysinfo, remote_restart, volatile_token, keyb_hint_src, filetransfer_server, filetransfer_client, remote_printing, whiteboard, tcp_tunnel, privacy_feature, encoder_reset, two_factor_auth, reverse_remote_printing, force_remote_restart, lossless_codec, 34
+   info 2021-03-10 17:40:05.531   frontend   wrk1      2     25                  app.frontend_session - Keyboard layouts differ (l:en_us != r:unknown). Auto-mode is Translate, user-mode is 0.
+   info 2021-03-10 17:40:05.531   frontend   wrk0      2     24             desk_rt.display_component - Received monitor info. Monitor count: 1.
+   info 2021-03-10 17:40:05.531   frontend   main      2      2                  app.frontend_session - Remote privacy state: off (no change).
+   info 2021-03-10 17:40:05.531   frontend   wrk1      2     25                  app.frontend_session - Received new input permissions: (enabled allowed supported)
+   info 2021-03-10 17:40:05.531   frontend   wrk1      2     25                  app.frontend_session - Received new sas permissions: (enabled allowed unsupported)
+   info 2021-03-10 17:40:05.614   frontend   main      2      2                                glwrap - Initializing OpenGL: 3.0 Mesa 20.3.4 (git-6d8c68603f)
+   info 2021-03-10 17:40:05.632   frontend   wrk1      2     25                  app.frontend_session - Received new audio permissions: (enabled allowed supported)
+   info 2021-03-10 17:40:05.633   frontend   wrk1      2     25                  app.frontend_session - Received new clipboard permissions: (enabled allowed supported)
+   info 2021-03-10 17:40:05.633   frontend   wrk1      2     25                  app.frontend_session - Received new permissions to block input: (allowed supported)
+   info 2021-03-10 17:40:05.633   frontend   wrk1      2     25                  app.frontend_session - Received new file manager permissions: (enabled allowed supported)
+   info 2021-03-10 17:40:05.633   frontend   wrk1      2     25                  app.frontend_session - Received new permissions to lock account: (allowed supported)
+   info 2021-03-10 17:40:05.633   frontend   wrk1      2     25                  app.frontend_session - Received new record session permissions: (allowed supported)
+   info 2021-03-10 17:40:05.633   frontend   wrk1      2     25                  app.frontend_session - Received whiteboard permissions: (enabled allowed supported)
+   info 2021-03-10 17:40:05.633   frontend   wrk1      2     25                  app.frontend_session - Received new TCP tunneling permissions: (enabled forbidden supported)
+   info 2021-03-10 17:40:05.633   frontend   wrk1      2     25                  app.frontend_session - Received new privacy feature permissions: (forbidden supported)
+   info 2021-03-10 17:40:05.664   frontend   wrk1      2     25                  app.frontend_session - Received new VPN permissions: (enabled allowed unsupported)
+   info 2021-03-10 17:40:05.664   frontend   wrk1      2     25             desk_rt.display_component - Remote resolution changed: Monitor 0 (1920x1080)
+   info 2021-03-10 17:40:05.688   frontend   main      2      2                  desk_rt.gl_view.port - Created back texture 1920x1080
+   info 2021-03-10 17:40:05.688   frontend   wrk1      2     25                  desk_rt.gl_view.port - Initialized (1920x1080, X8R8G8B8).
+   info 2021-03-10 17:40:06.410   frontend   wrk0      2     24                  app.frontend_session - Requesting a new thumbnail.
+   info 2021-03-10 17:40:06.410   frontend   wrk0      2     24             app.tcp_tunnel.raw_config - Loading config from ad.session.tcp_tunneling.fwd.local.195272717.
+   info 2021-03-10 17:40:06.410   frontend   wrk0      2     24             app.tcp_tunnel.raw_config - Loading config from ad.session.tcp_tunneling.bwd.local.195272717.
+   info 2021-03-10 17:40:06.410  local_svc   main      4      4   14            app.tcp_tunnel.config - deserialized rules 2
+   info 2021-03-10 17:40:06.410  local_svc   main      4      4   14            app.tcp_tunnel.config - Forward rules:
+   info 2021-03-10 17:40:06.411   frontend   wrk2      2     26                  app.frontend_session - Identical keyboard layout (en_us). Auto-mode is 1:1, user-mode is 0.
+   info 2021-03-10 17:40:07.061   frontend   wrk1      2     25                  app.frontend_session - Updated the thumbnail.
+  error 2021-03-10 17:42:10.081  local_svc   main      4      4                     anynet.tcp_socket - Error in socket: 110
+  error 2021-03-10 17:42:10.081  local_svc   main      4      4                     anynet.tcp_socket - Error in socket: 110
+   info 2021-03-10 17:42:10.081  local_svc   main      4      4   22           anynet.punch_connector - [103.217.111.202:58168] Socket error: result_invalid_state.
+warning 2021-03-10 17:42:10.081  local_svc   main      4      4   23           anynet.punch_connector - [103.217.111.202:7070] Socket error: result_invalid_state.
+   info 2021-03-10 17:42:10.081  local_svc   main      4      4                       fiber.scheduler - Fiber 23 terminated.
+   info 2021-03-10 17:42:10.332  local_svc   main      4      4   22           anynet.punch_connector - [103.217.111.202:58168] Reconnecting.
+  error 2021-03-10 17:42:14.184  local_svc   main      4      4                     anynet.tcp_socket - Error in socket: 113
+   info 2021-03-10 17:42:14.185  local_svc   main      4      4   22           anynet.punch_connector - [103.217.111.202:58168] Socket error: result_invalid_state.
+   info 2021-03-10 17:42:14.434  local_svc   main      4      4   22           anynet.punch_connector - [103.217.111.202:58168] Reconnecting.
+  error 2021-03-10 17:44:23.204  local_svc   main      4      4                     anynet.tcp_socket - Error in socket: 110
+   info 2021-03-10 17:44:23.204  local_svc   main      4      4   22           anynet.punch_connector - [103.217.111.202:58168] Socket error: result_invalid_state.
+   info 2021-03-10 17:44:23.454  local_svc   main      4      4   22           anynet.punch_connector - [103.217.111.202:58168] Reconnecting.
+  error 2021-03-10 17:44:24.244  local_svc   main      4      4                     anynet.tcp_socket - Error in socket: 113
+   info 2021-03-10 17:44:24.244  local_svc   main      4      4   22           anynet.punch_connector - [103.217.111.202:58168] Socket error: result_invalid_state.
+  error 2021-03-10 17:44:24.244  local_svc   main      4      4   22           anynet.punch_connector - [103.217.111.202:58168] Too many retries.
+   info 2021-03-10 17:44:24.244  local_svc   main      4      4                       fiber.scheduler - Fiber 22 terminated.
+   info 2021-03-10 17:44:24.244  local_svc   main      4      4   18           anynet.punch_connector - All connect fibers have failed.
+   info 2021-03-10 17:44:29.244  local_svc   main      4      4   18           anynet.punch_connector - Quit timeout has expired. Connect failed.
+   info 2021-03-10 17:44:29.244  local_svc   main      4      4                       fiber.scheduler - Fiber 18 terminated.
+  error 2021-03-10 17:44:29.244  local_svc   main      4      4   16       anynet.managed_client_conn - Connect error (result_unknown).
+   info 2021-03-10 17:44:29.244  local_svc   main      4      4   16            anynet.connection_mgr - Forcing cleanup.
+   info 2021-03-10 17:44:29.244  local_svc   main      4      4   16       anynet.managed_client_conn - Managed client connection failed.
+   info 2021-03-10 17:44:29.244  local_svc   main      4      4                       fiber.scheduler - Fiber 16 terminated.
+   info 2021-03-10 17:44:29.244  local_svc   main      4      4    2            anynet.connection_mgr - Managed client connection with d01397dc3eec4eadfd5070d338f3f2b6f4a53035 failed (result_unknown).
+   info 2021-03-10 17:44:29.244  local_svc   main      4      4    2            anynet.connection_mgr - Cleaned up 1/1 managed client connections.
+   info 2021-03-10 17:44:29.244  local_svc   main      4      4    2            anynet.connection_mgr - Cleaned up 0/1 supplemental relay connections.
+   info 2021-03-10 17:44:29.245  local_svc   main      4      4   15                anynet.any_socket - Direct connection closed (result_unknown).
+   info 2021-03-10 17:50:33.268   frontend   wrk1      2     25                      app.clipbrd_comp - Got a file offer (93565394a6027b5b).
+   info 2021-03-10 17:50:33.268   frontend   wrk1      2     25                      app.clipbrd_comp - File offer accepted.
+   info 2021-03-10 17:50:33.268   frontend   wrk1      2     25                   app.ft_sink_session - New session (93565394a6027b5b).
+   info 2021-03-10 17:50:33.268   frontend   wrk1      2     25                   app.ft_sink_session - Pasting.
+   info 2021-03-10 17:54:30.490   frontend   wrk0      2     24                      app.clipbrd_comp - Got a text offer (240 b).
+   info 2021-03-10 17:54:30.490   frontend   main      2      2                          clipbrd.sink - Putting text data on the clipboard (119).
+   info 2021-03-10 17:54:30.499   frontend   main      2      2                       clipbrd.capture - Ignoring own data.
+   info 2021-03-10 17:54:30.737   frontend   wrk1      2     25                      app.clipbrd_comp - Got a text offer (240 b).
+   info 2021-03-10 17:54:30.926   frontend   wrk1      2     25                      app.clipbrd_comp - Got a text offer (240 b).
+   info 2021-03-10 17:55:01.122   frontend   main      2      2                       clipbrd.capture - Clipboard changed.
+   info 2021-03-10 17:55:01.124   frontend   main      2      2                       clipbrd.capture - Requesting utf8 text.
+   info 2021-03-10 17:55:01.330   frontend   main      2      2                       clipbrd.capture - Clipboard changed.
+   info 2021-03-10 17:55:01.332   frontend   main      2      2                       clipbrd.capture - Requesting utf8 text.
+   info 2021-03-10 17:55:01.514   frontend   main      2      2                       clipbrd.capture - Clipboard changed.
+   info 2021-03-10 17:55:01.515   frontend   main      2      2                       clipbrd.capture - Requesting utf8 text.
+   info 2021-03-10 17:55:01.642   frontend   main      2      2                       clipbrd.capture - Clipboard changed.
+   info 2021-03-10 17:55:01.644   frontend   main      2      2                       clipbrd.capture - Requesting utf8 text.
+   info 2021-03-10 17:56:07.107   frontend   wrk1      2     25                      app.clipbrd_comp - Got a text offer (240 b).
+   info 2021-03-10 17:56:26.121   frontend   wrk1      2     25                      app.clipbrd_comp - Got a text offer (240 b).
+   info 2021-03-10 17:57:09.689   frontend   wrk1      2     25                      app.clipbrd_comp - Got a text offer (162 b).
+   info 2021-03-10 17:57:09.689   frontend   main      2      2                          clipbrd.sink - Putting text data on the clipboard (80).
+   info 2021-03-10 17:57:09.690   frontend   main      2      2                       clipbrd.capture - Ignoring own data.
+   info 2021-03-10 17:57:11.133   frontend   main      2      2                       clipbrd.capture - Clipboard changed.
+   info 2021-03-10 17:57:11.135   frontend   main      2      2                       clipbrd.capture - Requesting utf8 text.
+   info 2021-03-10 17:57:22.827   frontend   wrk1      2     25                      app.clipbrd_comp - Got a text offer (234 b).
+   info 2021-03-10 17:57:22.827   frontend   main      2      2                          clipbrd.sink - Putting text data on the clipboard (116).
+   info 2021-03-10 17:57:22.839   frontend   main      2      2                       clipbrd.capture - Ignoring own data.
+   info 2021-03-10 17:57:23.014   frontend   wrk1      2     25                      app.clipbrd_comp - Got a text offer (234 b).
+   info 2021-03-10 17:58:06.166   frontend   main      2      2                       clipbrd.capture - Clipboard changed.
+   info 2021-03-10 17:58:06.169   frontend   main      2      2                       clipbrd.capture - Requesting utf8 text.
+   info 2021-03-10 17:58:06.396   frontend   main      2      2                       clipbrd.capture - Clipboard changed.
+   info 2021-03-10 17:58:06.398   frontend   main      2      2                       clipbrd.capture - Requesting utf8 text.
+   info 2021-03-10 17:58:06.566   frontend   main      2      2                       clipbrd.capture - Clipboard changed.
+   info 2021-03-10 17:58:06.569   frontend   main      2      2                       clipbrd.capture - Requesting utf8 text.
+   info 2021-03-10 17:58:09.906   frontend   wrk1      2     25                      app.clipbrd_comp - Got a text offer (228 b).
+   info 2021-03-10 17:58:09.907   frontend   main      2      2                          clipbrd.sink - Putting text data on the clipboard (113).
+   info 2021-03-10 17:58:09.916   frontend   main      2      2                       clipbrd.capture - Ignoring own data.
+   info 2021-03-10 17:59:03.587   frontend   wrk1      2     25                      app.clipbrd_comp - Got a text offer (244 b).
+   info 2021-03-10 17:59:03.587   frontend   main      2      2                          clipbrd.sink - Putting text data on the clipboard (121).
+   info 2021-03-10 17:59:03.592   frontend   main      2      2                       clipbrd.capture - Ignoring own data.
+   info 2021-03-10 17:59:58.526   frontend   wrk0      2     24                      app.clipbrd_comp - Got a text offer (252 b).
+   info 2021-03-10 17:59:58.526   frontend   main      2      2                          clipbrd.sink - Putting text data on the clipboard (125).
+   info 2021-03-10 17:59:58.536   frontend   main      2      2                       clipbrd.capture - Ignoring own data.
+   info 2021-03-10 17:59:59.078   frontend   wrk3      2     27                      app.clipbrd_comp - Got a text offer (252 b).
+   info 2021-03-10 18:01:59.938   frontend   wrk2      2     26                      app.clipbrd_comp - Got a text offer (238 b).
+   info 2021-03-10 18:01:59.954   frontend   main      2      2                          clipbrd.sink - Putting text data on the clipboard (118).
+   info 2021-03-10 18:01:59.955   frontend   main      2      2                       clipbrd.capture - Ignoring own data.
+   info 2021-03-10 18:02:00.121   frontend   wrk1      2     25                      app.clipbrd_comp - Got a text offer (238 b).
+   info 2021-03-10 18:03:26.868   frontend   wrk1      2     25                      app.clipbrd_comp - Got a text offer (72 b).
+   info 2021-03-10 18:03:26.868   frontend   main      2      2                          clipbrd.sink - Putting text data on the clipboard (35).
+   info 2021-03-10 18:03:26.879   frontend   main      2      2                       clipbrd.capture - Ignoring own data.
+   info 2021-03-10 18:03:36.953   frontend   wrk1      2     25                      app.clipbrd_comp - Got a text offer (72 b).
+   info 2021-03-10 18:12:55.656   frontend   main      2      2                  app.frontend_session - The user has requested a connection quit.
+   info 2021-03-10 18:12:55.657   frontend   ctrl      2     23                  app.frontend_session - Stopping session.
+   info 2021-03-10 18:12:55.657   frontend   ctrl      2     23                       gui.main_window - Hide panel 8
+   info 2021-03-10 18:12:55.738   frontend   timr      2     56          base.signal.local.timer_impl - Timer wants to quit.
+   info 2021-03-10 18:12:55.738   frontend   ctrl      2     23             desk_rt.display_component - Stopping objects.
+   info 2021-03-10 18:12:55.772   frontend   ctrl      2     23                      app.clipbrd_comp - Closing clipboard.
+   info 2021-03-10 18:12:55.772   frontend   main      2      2                       clipbrd.capture - Unregistered clipboard notification.
+   info 2021-03-10 18:12:55.772   frontend   ctrl      2     23                   app.ft_sink_session - Terminated.
+   info 2021-03-10 18:12:55.772   frontend   ctrl      2     23                      app.clipbrd_comp - Clipboard closed.
+   info 2021-03-10 18:12:55.772   frontend   ctrl      2     23                  app.frontend_session - Session stopped.
+   info 2021-03-10 18:12:55.774  local_svc   main      4      4   14                      app.session - IPC socket closed normally.
+   info 2021-03-10 18:12:55.774  local_svc   main      4      4   14                      app.session - 5: Processing done.
+   info 2021-03-10 18:12:55.774  local_svc   main      4      4                       fiber.scheduler - Fiber 14 requested quit of fiber 15.
+   info 2021-03-10 18:12:55.774  local_svc   main      4      4   15                anynet.any_socket - Received quit.
+   info 2021-03-10 18:12:55.774  local_svc   main      4      4   15                anynet.any_socket - Connect fiber stopped.
+   info 2021-03-10 18:12:55.774  local_svc   main      4      4                       fiber.scheduler - Fiber 15 terminated.
+   info 2021-03-10 18:12:55.774  local_svc   main      4      4    2            anynet.connection_mgr - Scheduling cleanup in 30 seconds.
+   info 2021-03-10 18:12:55.774  local_svc   main      4      4   14                      app.service - Fiber exit (ipc).
+   info 2021-03-10 18:12:55.774  local_svc   main      4      4                       fiber.scheduler - Fiber 14 terminated.
+warning 2021-03-10 18:12:55.791  local_svc   main      4      4   17                      anynet.conn - Received data on invalid vport 10.
+   info 2021-03-10 18:12:55.824   frontend   main      2      2                     unix_app.frontend - Stopping to monitor client 195272717.
+   info 2021-03-10 18:12:55.824   frontend   main      2      2                  app.frontend_session - Deleting session.
+   info 2021-03-10 18:12:55.824  local_svc   main      4      4   12                      app.service - Stop monitoring 195272717.
+   info 2021-03-10 18:12:55.826   frontend   main      2      2                       gui.main_window - Removing all panels.
+   info 2021-03-10 18:12:55.827   frontend   main      2      2                  desk_rt.gl_view.port - Deleted
+   info 2021-03-10 18:12:55.829   frontend   main      2      2                          desk_rt.view - View deleted.
+warning 2021-03-10 18:12:55.831  local_svc   main      4      4   17                      anynet.conn - Received data on invalid vport 10.
+  error 2021-03-10 18:12:55.855   frontend   main      2      2                                  glib - g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+  error 2021-03-10 18:12:55.855   frontend   main      2      2                                  glib - g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+  error 2021-03-10 18:12:55.855   frontend   main      2      2                                  glib - g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+  error 2021-03-10 18:12:55.855   frontend   main      2      2                                  glib - g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+  error 2021-03-10 18:12:55.855   frontend   main      2      2                                  glib - g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+  error 2021-03-10 18:12:55.856   frontend   main      2      2                                  glib - g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+  error 2021-03-10 18:12:55.856   frontend   main      2      2                                  glib - g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+  error 2021-03-10 18:12:55.856   frontend   main      2      2                                  glib - g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+  error 2021-03-10 18:12:55.856   frontend   main      2      2                                  glib - g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+  error 2021-03-10 18:12:55.856   frontend   main      2      2                                  glib - g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+   info 2021-03-10 18:12:55.856   frontend   main      2      2                      audio.pa_wrapper - Connection to PulseAudio server terminated
+   info 2021-03-10 18:12:55.857   frontend   main      2      2              base.prot.job_dispatcher - 0 undelivered packets.
+   info 2021-03-10 18:12:55.857   frontend   timr      2     45          base.signal.local.timer_impl - Timer wants to quit.
+   info 2021-03-10 18:12:55.857   frontend   timr      2     44          base.signal.local.timer_impl - Timer wants to quit.
+   info 2021-03-10 18:12:55.857   frontend   ctrl      2     23                     unix_app.frontend - Session count: 0
+warning 2021-03-10 18:12:55.916  local_svc   main      4      4   17                      anynet.conn - Received data on invalid vport 10.
+warning 2021-03-10 18:12:55.966  local_svc   main      4      4   17                      anynet.conn - Received data on invalid vport 10.
+   info 2021-03-10 18:12:58.590   frontend   ctrl      2     23                     unix_app.frontend - Frontend shutdown.
+   info 2021-03-10 18:12:58.590  local_svc   main      4      4    1                      app.service - Process stop: 2 (frontend).
+   info 2021-03-10 18:12:58.597  local_svc   main      4      4   12                      app.service - IPC socket closed.
+   info 2021-03-10 18:12:58.597  local_svc   main      4      4                       fiber.scheduler - Fiber 12 requested quit of fiber 24.
+   info 2021-03-10 18:12:58.597  local_svc   main      4      4   24               app.online_monitor - Online state monitor stopped.
+   info 2021-03-10 18:12:58.597  local_svc   main      4      4                       fiber.scheduler - Fiber 24 terminated.
+   info 2021-03-10 18:12:58.597  local_svc   main      4      4   12                      app.service - Fiber exit (ipc).
+   info 2021-03-10 18:12:58.597  local_svc   main      4      4                       fiber.scheduler - Fiber 12 terminated.
+   info 2021-03-10 18:12:58.620   frontend   ctrl      2     23                       base.signal.hub - Control quit.
+   info 2021-03-10 18:12:58.623   frontend   timr      2     16          base.signal.local.timer_impl - Timer wants to quit.
+   info 2021-03-10 18:12:58.629   frontend   main      2      2              base.prot.job_dispatcher - 0 undelivered packets.
+   info 2021-03-10 18:12:58.653   frontend   main      2      2                                  main - Exiting normally.
+warning 2021-03-10 18:13:00.579  local_svc   main      4      4                   fiber.ipc_namespace - Zombie process detected (2). Fixing the state.
+   info 2021-03-10 18:13:00.579  local_svc   main      4      4    1                      app.service - Process stop: 2.
+   info 2021-03-10 18:13:10.580  local_svc   main      4      4    1                      app.service - Initiating auto-shutdown.
+   info 2021-03-10 18:13:10.581  local_svc   main      4      4    1                    app.discovery - Stopping.
+   info 2021-03-10 18:13:10.581  local_svc   main      4      4                       fiber.scheduler - Fiber 1 requested quit of fiber 13.
+   info 2021-03-10 18:13:10.581  local_svc   main      4      4   13                    app.discovery - Left multicast group 239.255.102.18:50001.
+   info 2021-03-10 18:13:10.581  local_svc   main      4      4   13                    app.discovery - Discovery fiber stopped.
+   info 2021-03-10 18:13:10.581  local_svc   main      4      4                       fiber.scheduler - Fiber 13 terminated.
+   info 2021-03-10 18:13:10.581  local_svc   main      4      4                       fiber.scheduler - Fiber 1 requested quit of fiber 6.
+   info 2021-03-10 18:13:10.581  local_svc   main      4      4                       fiber.scheduler - Fiber 6 terminated.
+   info 2021-03-10 18:13:10.581  local_svc   main      4      4                       fiber.scheduler - Fiber 1 requested quit of fiber 7.
+  error 2021-03-10 18:13:10.581       tray   wrk0      6     11                      unix_app.control - Service connection lost.
+   info 2021-03-10 18:13:10.581  local_svc   main      4      4    7                      app.service - Fiber exit (ipc).
+   info 2021-03-10 18:13:10.581  local_svc   main      4      4                       fiber.scheduler - Fiber 7 terminated.
+   info 2021-03-10 18:13:10.581  local_svc   main      4      4                       fiber.scheduler - Fiber 1 requested quit of fiber 5.
+   info 2021-03-10 18:13:10.581  local_svc   main      4      4    5                anynet.any_socket - Listen fiber stopped.
+   info 2021-03-10 18:13:10.581  local_svc   main      4      4                       fiber.scheduler - Fiber 5 terminated.
+   info 2021-03-10 18:13:10.581  local_svc   main      4      4    1            anynet.connection_mgr - Connection manager shutdown.
+   info 2021-03-10 18:13:10.581  local_svc   main      4      4                       fiber.scheduler - Fiber 1 requested quit of fiber 17.
+   info 2021-03-10 18:13:10.581       tray   ctrl      6     10                    app.tunnel_ft_comp - Stopping file component.
+   info 2021-03-10 18:13:10.581  local_svc   main      4      4   17           anynet.supp_relay_conn - Supplementary relay connection stopped.
+   info 2021-03-10 18:13:10.581  local_svc   main      4      4   17            anynet.connection_mgr - Forcing cleanup.
+   info 2021-03-10 18:13:10.581  local_svc   main      4      4                       fiber.scheduler - Fiber 17 terminated.
+   info 2021-03-10 18:13:10.581  local_svc   main      4      4    2            anynet.connection_mgr - Supplementary relay connection to 1379aa09 failed (result_quit).
+   info 2021-03-10 18:13:10.581  local_svc   main      4      4    2            anynet.connection_mgr - Cleaned up 1/1 supplemental relay connections.
+   info 2021-03-10 18:13:10.582  local_svc   main      4      4                       fiber.scheduler - Fiber 1 requested quit of fiber 3.
+   info 2021-03-10 18:13:10.582  local_svc   main      4      4    3           anynet.main_relay_conn - Main relay connection closed.
+   info 2021-03-10 18:13:10.582  local_svc   main      4      4    3            anynet.connection_mgr - Forcing cleanup.
+   info 2021-03-10 18:13:10.582  local_svc   main      4      4                       fiber.scheduler - Fiber 3 terminated.
+   info 2021-03-10 18:13:10.582  local_svc   main      4      4    2            anynet.connection_mgr - Main relay connection failed (result_quit).
+   info 2021-03-10 18:13:10.582  local_svc   main      4      4                       fiber.scheduler - Fiber 1 requested quit of fiber 2.
+   info 2021-03-10 18:13:10.582  local_svc   main      4      4    2            anynet.connection_mgr - Connection manager fiber quit.
+   info 2021-03-10 18:13:10.582  local_svc   main      4      4                       fiber.scheduler - Fiber 2 terminated.
+   info 2021-03-10 18:13:10.582  local_svc   main      4      4                       fiber.scheduler - Fiber 1 requested quit of fiber 4.
+   info 2021-03-10 18:13:10.582  local_svc   main      4      4    4              anynet.tcp_acceptor - Received quit.
+   info 2021-03-10 18:13:10.588       tray   main      6      6                      unix_app.control - Got quit signal.
+   info 2021-03-10 18:13:10.629       tray   ctrl      6     10                    app.tunnel_ft_comp - Stopping file component.
+   info 2021-03-10 18:13:10.629       tray   ctrl      6     10                       base.signal.hub - Control quit.
+   info 2021-03-10 18:13:10.630       tray   main      6      6                    app.tunnel_ft_comp - Terminated.
+   info 2021-03-10 18:13:10.630       tray   main      6      6              base.prot.job_dispatcher - 0 undelivered packets.
+   info 2021-03-10 18:13:10.633       tray   main      6      6                                  main - Exiting normally.
