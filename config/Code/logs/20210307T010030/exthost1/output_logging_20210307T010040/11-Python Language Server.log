@@ -1,3 +1,0 @@
-[Info  - 1:00:41 AM] Pylance language server 2021.3.0 (pyright eb716c0a) starting
-[Info  - 1:00:41 AM] Server root directory: /home/n30/.vscode/extensions/ms-python.vscode-pylance-2021.3.0/dist
-[Error - 1:00:41 AM] stubPath /run/media/n30/Jarvis/Work/Soft_dev/python-fast_api-CRUD/typings is not a valid directory.

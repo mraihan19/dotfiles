@@ -1,0 +1,15 @@
+Looking for git in: git
+Using git 2.31.1 from git
+> git rev-parse --git-dir
+Open repository: /home/n30/Music/Pill_Image_Recognition
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git show --textconv :README.md
+> git ls-files --stage -- /home/n30/Music/Pill_Image_Recognition/README.md
+> git cat-file -s 55449e213c2059d9b3fe64bebb4a0343747fa6c6

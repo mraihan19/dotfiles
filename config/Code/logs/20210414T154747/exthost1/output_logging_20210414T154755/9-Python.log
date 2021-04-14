@@ -1,0 +1,82 @@
+User belongs to experiment group 'pythonaa'
+User belongs to experiment group 'pythonJoinMailingListVar2'
+User belongs to experiment group 'pythonSendEntireLineToREPL'
+User belongs to experiment group 'pythonNotDisplayLinterPrompt'
+User belongs to experiment group 'pythonDiscoveryModule'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'PythonPyTorchProfiler'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+> python ~/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+Error 2021-04-14 15:47:56: Failed to parse version from path: /bin/python [Error: invalid version python
+	at u (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:9:198256)
+	at Object.c [as parseVersion] (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:9:197565)
+	at p.buildPathEnvInfo (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29369)
+	at e (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29057)
+	at Array.map (<anonymous>)
+	at /home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29222
+	at async o (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:1:53891)]
+Error 2021-04-14 15:47:56: Failed to parse version from path: /sbin/python [Error: invalid version python
+	at u (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:9:198256)
+	at Object.c [as parseVersion] (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:9:197565)
+	at p.buildPathEnvInfo (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29369)
+	at e (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29057)
+	at Array.map (<anonymous>)
+	at /home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29222
+	at async o (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:1:53891)]
+Error 2021-04-14 15:47:56: Failed to parse version from path: /usr/bin/python [Error: invalid version python
+	at u (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:9:198256)
+	at Object.c [as parseVersion] (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:9:197565)
+	at p.buildPathEnvInfo (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29369)
+	at e (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29057)
+	at Array.map (<anonymous>)
+	at /home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29222
+	at async o (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:1:53891)]
+Error 2021-04-14 15:47:56: Failed to parse version from path: /usr/sbin/python [Error: invalid version python
+	at u (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:9:198256)
+	at Object.c [as parseVersion] (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:9:197565)
+	at p.buildPathEnvInfo (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29369)
+	at e (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29057)
+	at Array.map (<anonymous>)
+	at /home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29222
+	at async o (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:1:53891)]
+Python interpreter path: /usr/sbin/python
+Starting Pylance language server.
+Error 2021-04-14 15:47:56: Failed to parse version from path: /bin/python [Error: invalid version python
+	at u (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:9:198256)
+	at Object.c [as parseVersion] (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:9:197565)
+	at p.buildPathEnvInfo (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29369)
+	at e (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29057)
+	at Array.map (<anonymous>)
+	at /home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29222
+	at async o (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:1:53891)]
+Error 2021-04-14 15:47:56: Failed to parse version from path: /sbin/python [Error: invalid version python
+	at u (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:9:198256)
+	at Object.c [as parseVersion] (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:9:197565)
+	at p.buildPathEnvInfo (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29369)
+	at e (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29057)
+	at Array.map (<anonymous>)
+	at /home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29222
+	at async o (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:1:53891)]
+Error 2021-04-14 15:47:56: Failed to parse version from path: /usr/bin/python [Error: invalid version python
+	at u (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:9:198256)
+	at Object.c [as parseVersion] (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:9:197565)
+	at p.buildPathEnvInfo (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29369)
+	at e (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29057)
+	at Array.map (<anonymous>)
+	at /home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29222
+	at async o (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:1:53891)]
+Error 2021-04-14 15:47:56: Failed to parse version from path: /usr/sbin/python [Error: invalid version python
+	at u (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:9:198256)
+	at Object.c [as parseVersion] (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:9:197565)
+	at p.buildPathEnvInfo (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29369)
+	at e (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29057)
+	at Array.map (<anonymous>)
+	at /home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:80:29222
+	at async o (/home/n30/.dotfiles/vscode/extensions/ms-python.python-2021.3.680753044/out/client/extension.js:1:53891)]
+> conda --version
+Error 2021-04-14 15:48:30: Error while running worker[Worker 2]. undefined
+Error 2021-04-14 15:48:30: Error while running worker[Worker 1]. undefined

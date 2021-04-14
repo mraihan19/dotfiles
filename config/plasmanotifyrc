@@ -13,5 +13,9 @@ Seen=true
 [Applications][telegramdesktop]
 Seen=true
 
+[Jobs]
+PermanentPopups=false
+
 [Notifications]
-PopupPosition=TopRight
+CriticalAlwaysOnTop=false
+LowPriorityHistory=true

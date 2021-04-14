@@ -1,0 +1,35 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Music/For you husband /,$HOME/Music/,/run/media/n30/Skeleton/Downloads Backup/Downloads/Programs/Scripts/untitled folder/untitled folder/New Folder (2)/
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:///run/media/n30/Skeleton/Downloads Backup/Downloads/Programs/Scripts/untitled folder/untitled folder/New Folder (2)/,file:$HOME/,file:$HOME/Music/,file:$HOME/Music/For you husband /
+detailViewIconSize=16
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAG0AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+eDP-1 HDMI-1-0 XPosition 1920x1080=4
+eDP-1 HDMI-1-0 YPosition 1920x1080=52
+splitterSizes=422,211
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/ms-vscode-remote.remote-containers-0.165.1.vsix
+File2[$e]=$HOME/Downloads/Telegram Desktop/testing.zip
+File3[$e]=/run/media/n30/Skeleton/Downloads Backup/Downloads/Programs/Scripts/untitled folder/untitled folder/New Folder (2)/For you husband -20210412T132003Z-001.zip
+File4[$e]=$HOME/Downloads/Telegram Desktop/a1.zip
+Name1[$e]=ms-vscode-remote.remote-containers-0.165.1.vsix
+Name2[$e]=testing.zip
+Name3[$e]=For you husband -20210412T132003Z-001.zip
+Name4[$e]=a1.zip
+
+[Viewer]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAASkAAAB4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 HDMI-1-0 Height 1920x1080=164
+eDP-1 HDMI-1-0 Width 1920x1080=297
+eDP-1 HDMI-1-0 XPosition 1920x1080=4
+eDP-1 HDMI-1-0 YPosition 1920x1080=52

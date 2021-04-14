@@ -1,0 +1,24 @@
+00:00:00.740778 VirtualBox GUI VM Selector Window 6.1.18 r142142 linux.amd64 (Feb 16 2021 07:45:49) release log
+00:00:00.740779 Log opened 2021-03-27T03:35:50.922804000Z
+00:00:00.740779 Build Type: release
+00:00:00.740781 OS Product: Linux
+00:00:00.740782 OS Release: 5.9.16-1-MANJARO
+00:00:00.740783 OS Version: #1 SMP PREEMPT Mon Dec 21 22:00:46 UTC 2020
+00:00:00.740797 DMI Product Name: Predator G3-571
+00:00:00.740804 DMI Product Version: V1.20
+00:00:00.740807 Firmware type: UEFI
+00:00:00.741378 Secure Boot: Disabled
+00:00:00.741438 Host RAM: 15895MB (15.5GB) total, 14646MB (14.3GB) available
+00:00:00.741444 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.741444 Process ID: 2006
+00:00:00.741445 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.741471 Qt version: 5.15.2
+00:00:00.759393 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.377425 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x26 x 1920x1054
+00:00:02.382767 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 1920x0 x 1920x1080
+00:00:02.478405 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:35.114882 GUI: UIMediumEnumerator: Medium with key={{fc3a9960-6f93-47ec-a551-e96e4c6e4cc3}} created
+00:00:35.150584 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:38.099496 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:38.243517 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:29.812482 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0

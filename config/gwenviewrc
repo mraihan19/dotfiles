@@ -1,2 +1,42 @@
 [$Version]
 update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Music/IMG_20210412_173947.jpg,file:$HOME/Music/IMG_20210412_174137.jpg,file:$HOME/Music/IMG_20210412_174126.jpg,file:$HOME/Music/IMG_20210412_174107.jpg,file:$HOME/Music/IMG_20210412_174042.jpg,file:$HOME/Music/IMG_20210412_173951.jpg
+Recent URLs[$e]=file:$HOME/Music/,file:///tmp/ark-FkogPq/For you husband /,file:///tmp/ark-VKIIwd/For you husband /,file:///tmp/ark-THyFPc/For you husband /,file:///tmp/ark-LZBRvt/For you husband /,file:$HOME/Videos/
+detailViewIconSize=16
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPYAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 HDMI-1-0 Height 1920x1080=480
+eDP-1 HDMI-1-0 Width 1920x1080=714
+eDP-1 HDMI-1-0 Window-Maximized 1920x1080=true
+eDP-1 HDMI-1-0 XPosition 1920x1080=0
+eDP-1 HDMI-1-0 YPosition 1920x1080=52
+
+[Recent Files]
+File1[$e]=/run/media/n30/Skeleton/Downloads Backup/Downloads/Programs/Scripts/untitled folder/untitled folder/New Folder (2)/IMG_20210412_174424.jpg
+File10[$e]=/run/media/n30/Skeleton/Downloads Backup/Downloads/Programs/Scripts/untitled folder/untitled folder/New Folder (2)/VID_20210412_174824.mp4
+File2[$e]=/run/media/n30/Skeleton/Downloads Backup/Downloads/Programs/Scripts/untitled folder/untitled folder/New Folder (2)/IMG_20210412_174748.jpg
+File3[$e]=/run/media/n30/Skeleton/Downloads Backup/Downloads/Programs/Scripts/untitled folder/untitled folder/New Folder (2)/IMG_20210412_175209.jpg
+File4[$e]=/run/media/n30/Skeleton/Downloads Backup/Downloads/Programs/Scripts/untitled folder/untitled folder/New Folder (2)/IMG_20210412_175227.jpg
+File5[$e]=/run/media/n30/Skeleton/Downloads Backup/Downloads/Programs/Scripts/untitled folder/untitled folder/New Folder (2)/IMG_20210412_175238.jpg
+File6[$e]=/run/media/n30/Skeleton/Downloads Backup/Downloads/Programs/Scripts/untitled folder/untitled folder/New Folder (2)/IMG_20210412_175328.jpg
+File7[$e]=/run/media/n30/Skeleton/Downloads Backup/Downloads/Programs/Scripts/untitled folder/untitled folder/New Folder (2)/IMG_20210412_175403.jpg
+File8[$e]=/run/media/n30/Skeleton/Downloads Backup/Downloads/Programs/Scripts/untitled folder/untitled folder/New Folder (2)/IMG_20210412_175423.jpg
+File9[$e]=/run/media/n30/Skeleton/Downloads Backup/Downloads/Programs/Scripts/untitled folder/untitled folder/New Folder (2)/IMG_20210412_1741371.jpg
+Name1[$e]=IMG_20210412_174424.jpg
+Name10[$e]=VID_20210412_174824.mp4
+Name2[$e]=IMG_20210412_174748.jpg
+Name3[$e]=IMG_20210412_175209.jpg
+Name4[$e]=IMG_20210412_175227.jpg
+Name5[$e]=IMG_20210412_175238.jpg
+Name6[$e]=IMG_20210412_175328.jpg
+Name7[$e]=IMG_20210412_175403.jpg
+Name8[$e]=IMG_20210412_175423.jpg
+Name9[$e]=IMG_20210412_1741371.jpg
+
+[SideBar]
+SideBarSplitterSizes=153,1758

@@ -17,11 +17,15 @@ outlineWidth=1
 
 [ScreenConnectors]
 \n=HDMI-1-0:::1920,0 1920x1080
+0=HDMI-1-0:::1920,0 1920x1080
+10=eDP-1
 
 [UniversalSettings]
 badges3DStyle=true
 canDisableBorders=false
+currentLayout=mcOS-BigSur-Large
 inAdvancedModeForEditSettings=false
+lastNonAssignedLayout=mcOS-BigSur-Large
 launchers=
 memoryUsage=0
 metaPressAndHoldEnabled=true

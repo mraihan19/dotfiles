@@ -16,8 +16,13 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
+[Containments][1][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/Breath2/contents/images/1920x1080.png
+Image=file:///usr/share/wallpapers/DarkestHour/contents/images/2560x1600.jpg
+SlidePaths=/home/n30/.local/share/wallpapers,/usr/share/wallpapers
 
 [Containments][19]
 activityId=b9f7f452-9f76-4105-a0de-a01a6f47f372
@@ -28,8 +33,13 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
+[Containments][19][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
 [Containments][19][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/Breath2/contents/images/1920x1080.png
+Image=file:///home/n30/.dotfiles/local/share/wallpapers/pexels-mark-plötz-4620574 (1).jpg
+SlidePaths=/home/n30/.local/share/wallpapers,/usr/share/wallpapers
 
 [ScreenMapping]
 itemsOnDisabledScreens=

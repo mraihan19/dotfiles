@@ -7,6 +7,11 @@ Show Menu Bar=true
 Show Status Bar=true
 Show Tab Bar=true
 
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/requirements.txt,file:$HOME/paper_list.txt
+Recent URLs[$e]=file:$HOME/,file:$HOME/Documents/
+detailViewIconSize=16
+
 [KTextEditor Document]
 Allow End of Line Detection=true
 BOM=false
@@ -103,10 +108,12 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
+eDP-1 HDMI-1-0 Height 1920x1080=541
+eDP-1 HDMI-1-0 Width 1920x1080=980
 eDP-1 HDMI-1-0 XPosition=640
-eDP-1 HDMI-1-0 XPosition 1920x1080=640
+eDP-1 HDMI-1-0 XPosition 1920x1080=529
 eDP-1 HDMI-1-0 YPosition=323
-eDP-1 HDMI-1-0 YPosition 1920x1080=323
+eDP-1 HDMI-1-0 YPosition 1920x1080=370
 eDP-1 XPosition 1920x1080=608
 eDP-1 YPosition 1920x1080=289
 

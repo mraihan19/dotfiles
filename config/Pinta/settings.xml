@@ -7,5 +7,5 @@
   <setting name="image-tabs-shown" type="System.Boolean">True</setting>
   <setting name="toolbar-shown" type="System.Boolean">True</setting>
   <setting name="pixel-grid-shown" type="System.Boolean">False</setting>
-  <setting name="last-dialog-directory" type="System.String">/home/n30/Pictures</setting>
+  <setting name="last-dialog-directory" type="System.String">/run/media/n30/Skeleton/Convocaton Photos/Convo</setting>
 </settings>

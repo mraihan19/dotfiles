@@ -2,7 +2,8 @@
 DefaultProfile=Profile 2.profile
 
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAAAAAoAAAAHCAAAABAAAAAQAAAAIAAAACPwAAAAA
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAHDAAAABAAAAAQAAAAIAAAACPwAAAAA
 ToolBarsMovable=Disabled
 eDP-1 HDMI-1-0 XPosition=2935
 eDP-1 HDMI-1-0 XPosition 1920x1080=838

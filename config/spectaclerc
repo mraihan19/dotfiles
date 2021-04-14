@@ -2,4 +2,15 @@
 update_info=spectacle_newConfig.upd:spectacle-new-config
 
 [GuiConfig]
-window-position=50,26
+captureMode=5
+cropRegion=2633,602,402,20
+window-position=2418,137
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/Screenshot_20210331_123215.png,file:$HOME/Pictures/Screenshot_20210413_095534.png,file:$HOME/Pictures/Screenshot_20210413_095123.png,file:$HOME/Pictures/Screenshot_20210413_094952.png,file:$HOME/Pictures/Screenshot_20210413_094648.png,file:$HOME/Pictures/Screenshot_20210408_175031.png,file:$HOME/Pictures/Screenshot_20210401_162548.png,file:$HOME/Pictures/Screenshot_20210331_140824.png
+Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/,file:$HOME/Documents/
+detailViewIconSize=16
+
+[Save]
+lastSaveAsLocation=file:///home/n30/Pictures/Screenshot_20210413_095534.png
+lastSaveLocation=file:///home/n30/Pictures/Screenshot_20210413_095534.png

@@ -6,34 +6,34 @@ detailViewIconSize=16
 
 [MainWindow]
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAPyAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPYAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-eDP-1 HDMI-1-0 Height 1920x1080=1054
+eDP-1 HDMI-1-0 Height 1920x1080=1028
 eDP-1 HDMI-1-0 Width 1920x1080=1920
 eDP-1 HDMI-1-0 Window-Maximized 1920x1080=true
 eDP-1 HDMI-1-0 XPosition=0
-eDP-1 HDMI-1-0 XPosition 1920x1080=1920
+eDP-1 HDMI-1-0 XPosition 1920x1080=0
 eDP-1 HDMI-1-0 YPosition=52
-eDP-1 HDMI-1-0 YPosition 1920x1080=26
+eDP-1 HDMI-1-0 YPosition 1920x1080=52
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/1721785_Noshin_Tasnim_Priyoti.pdf
-File10[$e]=$HOME/Downloads/Video/Assignment Front Page1.pdf
-File2[$e]=$HOME/Downloads/ACFrOgAE1EmaD7_nTGbyJ0Gc7kf3QuXzfbGvQNfuIrWUdojc3mem8cLu8IAcELAWBqr6bUVVZi-bRJKCiJIxHfJjbMb3J4wIT0B1x4AF5_Ql18X9CzT520lTFChAZNQ=.pdf
-File3[$e]=$HOME/Downloads/ACFrOgB-_fHEDnR-4ENEFK1UOKSi5rAwQ6RyYR7dWBDLc3EFHH0RHe2rvgrRX8Q0EL4XQTi7d5SWHotOuf6VQ48Atrdw2sw8FLvV5wSeI0Wg_5IfadHFIoy8pTnyjmY=.pdf
-File4[$e]=$HOME/Downloads/3379156.3391363.pdf
-File5[$e]=$HOME/Downloads/Expert Consortium/EEAgreement-Raihanul_Bashar.pdf
-File6[$e]=$HOME/Downloads/Expert Consortium/Expert-OfferLetter-Raihanul_Bashar.pdf
-File7[$e]=$HOME/Downloads/Video/A Modest Proposal.pdf
-File8[$e]=$HOME/Downloads/Video/Tennyson 103.pdf
-File9[$e]=$HOME/Downloads/Video/Assignment Front Page.pdf
-Name1[$e]=1721785_Noshin_Tasnim_Priyoti.pdf
-Name10[$e]=Assignment Front Page1.pdf
-Name2[$e]=ACFrOgAE1EmaD7_nTGbyJ0Gc7kf3QuXzfbGvQNfuIrWUdojc3mem8cLu8IAcELAWBqr6bUVVZi-bRJKCiJIxHfJjbMb3J4wIT0B1x4AF5_Ql18X9CzT520lTFChAZNQ=.pdf
-Name3[$e]=ACFrOgB-_fHEDnR-4ENEFK1UOKSi5rAwQ6RyYR7dWBDLc3EFHH0RHe2rvgrRX8Q0EL4XQTi7d5SWHotOuf6VQ48Atrdw2sw8FLvV5wSeI0Wg_5IfadHFIoy8pTnyjmY=.pdf
-Name4[$e]=3379156.3391363.pdf
-Name5[$e]=EEAgreement-Raihanul_Bashar.pdf
-Name6[$e]=Expert-OfferLetter-Raihanul_Bashar.pdf
-Name7[$e]=A Modest Proposal.pdf
-Name8[$e]=Tennyson 103.pdf
-Name9[$e]=Assignment Front Page.pdf
+File1[$e]=$HOME/Pictures/wek_report.pdf
+File10[$e]=$HOME/Music/National Medicine Image Database Creation and Recognizing Medicine from Medicine Image.pdf
+File2[$e]=$HOME/Downloads/Weekly Report (1).pdf
+File3[$e]=$HOME/Downloads/Stephen P. Robbins, Mary A. Coulter Management.pdf
+File4[$e]=$HOME/Downloads/ACFrOgB-_fHEDnR-4ENEFK1UOKSi5rAwQ6RyYR7dWBDLc3EFHH0RHe2rvgrRX8Q0EL4XQTi7d5SWHotOuf6VQ48Atrdw2sw8FLvV5wSeI0Wg_5IfadHFIoy8pTnyjmY=.pdf
+File5[$e]=$HOME/Downloads/ACFrOgAE1EmaD7_nTGbyJ0Gc7kf3QuXzfbGvQNfuIrWUdojc3mem8cLu8IAcELAWBqr6bUVVZi-bRJKCiJIxHfJjbMb3J4wIT0B1x4AF5_Ql18X9CzT520lTFChAZNQ=.pdf
+File6[$e]=$HOME/Downloads/Scan04082021174607.pdf
+File7[$e]=$HOME/Downloads/MURDER ON THE HIGHWAY - PRITTHIRAJ SEN (www.amarbooks.org).pdf
+File8[$e]=$HOME/Documents/tin-certificate.pdf
+File9[$e]=$HOME/Documents/Aug-21-Doc-1.pdf
+Name1[$e]=wek_report.pdf
+Name10[$e]=National Medicine Image Database Creation and Recognizing Medicine from Medicine Image.pdf
+Name2[$e]=Weekly Report (1).pdf
+Name3[$e]=Stephen P. Robbins, Mary A. Coulter Management.pdf
+Name4[$e]=ACFrOgB-_fHEDnR-4ENEFK1UOKSi5rAwQ6RyYR7dWBDLc3EFHH0RHe2rvgrRX8Q0EL4XQTi7d5SWHotOuf6VQ48Atrdw2sw8FLvV5wSeI0Wg_5IfadHFIoy8pTnyjmY=.pdf
+Name5[$e]=ACFrOgAE1EmaD7_nTGbyJ0Gc7kf3QuXzfbGvQNfuIrWUdojc3mem8cLu8IAcELAWBqr6bUVVZi-bRJKCiJIxHfJjbMb3J4wIT0B1x4AF5_Ql18X9CzT520lTFChAZNQ=.pdf
+Name6[$e]=Scan04082021174607.pdf
+Name7[$e]=MURDER ON THE HIGHWAY - PRITTHIRAJ SEN (www.amarbooks.org).pdf
+Name8[$e]=tin-certificate.pdf
+Name9[$e]=Aug-21-Doc-1.pdf

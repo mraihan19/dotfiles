@@ -2,6 +2,18 @@
     "telemetry.machineId": "7d9fbd28474b1ed61cc8f8e50ce56510e37a75d87ce4e2d03245cac08853dc88",
     "openedPathsList": {
         "workspaces3": [
+            "file:///run/media/n30/Jarvis/research/practice",
+            "file:///home/n30/Music/Pill_Image_Recognition",
+            "file:///home/n30/Downloads/Telegram%20Desktop/testing",
+            {
+                "id": "eac783fdf7a1401f9a8ad20d3a92a555",
+                "configURIPath": "file:///home/n30/Documents/vs_code_workspaces/office_work.code-workspace"
+            },
+            {
+                "id": "87663ae1329568a659adcbf2299ae96b",
+                "configURIPath": "file:///home/n30/Documents/vs_code_workspaces/personal.code-workspace"
+            },
+            "file:///run/media/n30/Jarvis/work/rl/path_planning_using_reinforcement_learning",
             "file:///home/n30/Downloads/SL"
         ],
         "files2": [
@@ -9,6 +21,15 @@
             "file:///home/n30/.dotfiles/.config/alacritty/alacritty.yml",
             "file:///home/n30/Downloads/amz_code.py",
             "file:///home/n30/Downloads/extensions.json"
+        ],
+        "workspaceLabels": [
+            null,
+            null,
+            null,
+            "~/Documents/vs_code_workspaces/office_work (Workspace)",
+            "~/Documents/vs_code_workspaces/personal (Workspace)",
+            null,
+            null
         ]
     },
     "lastKnownMenubarData": {
@@ -45,7 +66,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -54,7 +76,71 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/n30/Downloads/SL",
+                                        "fsPath": "/run/media/n30/Jarvis/research/practice",
+                                        "external": "file:///run/media/n30/Jarvis/research/practice",
+                                        "path": "/run/media/n30/Jarvis/research/practice",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/run/media/n30/Jarvis/research/practice"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/n30/Music/Pill_Image_Recognition",
+                                        "path": "/home/n30/Music/Pill_Image_Recognition",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Music/Pill_Image_Recognition"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/n30/Downloads/Telegram%20Desktop/testing",
+                                        "path": "/home/n30/Downloads/Telegram Desktop/testing",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/Telegram Desktop/testing"
+                                },
+                                {
+                                    "id": "openRecentWorkspace",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "path": "/home/n30/Documents/vs_code_workspaces/office_work.code-workspace",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/vs_code_workspaces/office_work (Workspace)"
+                                },
+                                {
+                                    "id": "openRecentWorkspace",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "path": "/home/n30/Documents/vs_code_workspaces/personal.code-workspace",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/vs_code_workspaces/personal (Workspace)"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///run/media/n30/Jarvis/work/rl/path_planning_using_reinforcement_learning",
+                                        "path": "/run/media/n30/Jarvis/work/rl/path_planning_using_reinforcement_learning",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/run/media/n30/Jarvis/work/rl/path_planning_using_reinforcement_learning"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/n30/Downloads/SL",
                                         "path": "/home/n30/Downloads/SL",
                                         "scheme": "file"
@@ -449,7 +535,8 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel"
+                                    "label": "Show &&Panel",
+                                    "checked": true
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -624,7 +711,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -633,7 +721,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1513,17 +1602,17 @@
     "themeBackground": "#0f1c23",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/n30/Downloads/SL",
-            "backupPath": "/home/n30/.config/Code/Backups/1f664070ecca0e52af236c1513ac6f7d",
+            "folder": "file:///run/media/n30/Jarvis/research/practice",
+            "backupPath": "/home/n30/.config/Code/Backups/37ba7cdc9670c073c908605b7e81fca2",
             "uiState": {
                 "mode": 0,
                 "x": 0,
                 "y": 0,
-                "width": 1272,
-                "height": 1005
+                "width": 1024,
+                "height": 768
             }
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "/home/n30/Downloads"
+    "pickerWorkingDir": "/run/media/n30/Jarvis/research"
 }
